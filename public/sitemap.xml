@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2018-07-06T13:33:35-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/apply/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -42,12 +47,6 @@
   <url>
     <loc>/tags/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-07-06T13:33:35-06:00</lastmod>
     <priority>0</priority>
   </url>
   

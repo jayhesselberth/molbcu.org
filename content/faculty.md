@@ -1,46 +1,40 @@
 ---
 title: "Faculty"
 date: "2018-07-06T13:33:18-06:00"
-menu: main
+menu:
+  main:
+    weight: 20
 ---
 
 # Research Faculty
-The research interests of the more than forty program faculty include structure and function of nucleic acids, mechanisms of DNA replication, RNA transcription and mRNA translation, the structure and function of viruses, genes and gene products controlling cell cycle progression, cell death and development, protein trafficking, signal transduction, hormone receptors, and structural biology. To study these important and exciting fields, our faculty employ experimental systems such as bacteria, viruses, yeast cells, Xenopus oocytes, Drosophila, C. elegans, human tissue culture cells, and genetically engineered mice. Our faculty also provide training in high resolution structure of proteins and RNA/DNA by x-ray crystallography and NMR. Because of the solid funding record of all participating faculty, graduate students find unlimited opportunities to perform research in an atmosphere of both guidance and freedom.
 
-Faculty Name
-Research Description
-Anderson, Steven	
-My lab is interested in signaling pathways that regulate mammary gland development and tumorigenesis.
-Appel, Bruce	
-Development and repair of the vertebrate nervous system
-Artinger, Kristin	
-Molecular, genetic, and developmental mechanisms involved in the patterning of the early spinal cord (neural plate) during vertebrate embryogenesis.
-Asturias, Francisco	
-Many essential cellular processes are carried out by "macromolecular machines", large assemblies that often include tens of different proteins, each making a specific contribution to the function of the machine. Characterization of these large macromolecular complexes using a combination of techniques constitutes the next frontier in structural biology.
-Barton, David	
-Enterovirus RNA replication.
-Bates, Emily	
-The use of genetics to determine the molecular mechanisms of pediatric disorders.
-Bayer, Ulli	
-Molecular memory and synaptic plasticity, cellular signal transduction and neuronal function, CaMKII and Ca2+ signaling.
-Bentley, David	
-Eukaryotic mRNA biogenesis: transcription and RNA processing.
-Black, Joshua	
-Regulation of genome stability, cancer cell heterogeneity and chemotherapeutic responses by the chromatin microenvironment.
-Bradford, Andrew	
-Regulation of tissue specific gene expression in response to hormonal and growth factor stimuli, characterization of fibroblast growth factor signaling in the pituitary, and the role of protein kinase C in endometrial cancer.
-Catalano, Carlos	
-The studies performed in my lab fall into three broad categories that seek to understand the molecular mechanisms of virus development in the complex double-stranded DNA (dsDNA) viruses. The first project centers on the enzymology of terminase, the DNA packaging motor of bacteriophage lambda. The second project focuses on the procapsid into which the genome is packaged. The third project seeks to harness the lambda capsid as nanoparticle for “theragnostic” applications (Viral Bioengineering).
-Churchill, Mair	
-Structural biology of gene regulatory mechanisms
-Colgan, Sean	
-Understanding how epithelial and endothelial cells coordinate inflammatory bowel disease.
-D'Alessandro, Angelo	
-Omics technologies, especially metabolomics and proteomics, have helped us revealing emerging patterns in systemic responses to acute or chronic hypoxia.
-Davis, Richard	
-Programmed DNA elimination, novel RNAs, and RNA metabolism.
-DeGregori, James	
-Cancer - understanding its evolution and targeting its dependencies.
+The research interests of the 40 program faculty include:
+
+- the structure and function of nucleic acids
+- mechanisms of DNA replication, RNA transcription and mRNA translation
+the structure and function of viruses
+genes and gene products controlling cell cycle progression, cell death and development, protein trafficking, signal transduction, hormone receptors, and structural biology.
+
+To study these important and exciting fields, our faculty employ experimental systems bacteria, viruses, yeast cells, Xenopus oocytes, Drosophila, C. elegans, human tissue culture cells, and genetically engineered mice. Our faculty also provide training in high resolution structure of proteins and RNA/DNA by x-ray crystallography and NMR. Because of the solid funding record of all participating faculty, graduate students find unlimited opportunities to perform research in an atmosphere of both guidance and freedom.
+
+Faculty Name | Research Description
+-------------|---------------------
+Steven Anderson | Signaling pathways regulating mammary gland development and tumorigenesis.
+Bruce	Appel | Development and repair of the vertebrate nervous system
+Kristin	Artinger | Patterning of the early spinal cord (neural plate) during vertebrate embryogenesis.
+Francisco	Asturias | Cryo-EM of macromolecular machines
+David	Barton | Enterovirus RNA replication.
+Emily	Bates | Molecular mechanisms of pediatric disorders.
+Ulli Bayer | Molecular memory and synaptic plasticity
+David Bentley | Eukaryotic mRNA biogenesis
+Joshua Black | Regulation of genome stability by chromatin
+Andrew Bradford | Regulation of tissue specific gene expression in response to hormonal and growth factor stimuli, characterization of fibroblast growth factor signaling in the pituitary, and the role of protein kinase C in endometrial cancer.
+Carlos Catalano | Molecular mechanisms of virus development
+Mair Churchill | Structural biology of gene regulatory mechanisms
+Sean Colgan | Epithelial and endothelial cells in inflammatory bowel disease.
+Angelo D'Alessandro | Systemic responses to acute or chronic hypoxia
+Richard	Davis | Programmed DNA elimination, novel RNAs, and RNA metabolism.
+James	DeGregori | Cancer evolution and dependencies.
 
 DiPaola, Jorge	
 The DiPaola laboratory dedicates all efforts to scientific and clinical problems related to the effect that critical components of the hemostatic system, such as platelets and coagulation factors, have on human disease... Our ultimate hope is that through research we can contribute to the improvement of lives of individuals with bleeding and thrombotic disorders.

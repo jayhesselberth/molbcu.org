@@ -1,7 +1,9 @@
 ---
 title: About the Program
 date: 2018-07-06
-menu: main
+menu:
+  main:
+    weight: 10
 ---
 
 The Molecular Biology Program is dedicated to providing rigorous training to its
