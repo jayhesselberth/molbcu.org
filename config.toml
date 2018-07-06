@@ -1,10 +1,10 @@
 baseurl = "/"
 title = "University of Colorado Molecular Biology Program"
 languageCode = "en-us"
-paginate = "10" # Number of posts per page
+paginate = "12" # Number of posts per page
 theme = "Mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+googleAnalytics = "UA-121846153-1" # Enable Google Analytics by entering your tracking id
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [Author]
@@ -17,7 +17,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     subtitle = "Just another site" # Subtitle of your site
     description = "University of Colorado Molecular Biology Program" # Description of your site
     opengraph = true
-    twitter_cards = false
+    twitter_cards = true
     readmore = false # Show "Read more" button in list if true
     leftsidebar = false # Move sidebar to the left side if true
     authorbox = true
