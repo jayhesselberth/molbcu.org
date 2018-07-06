@@ -1,5 +1,5 @@
 ---
-title: University of Colorado Molecular Biology Program
+title: About the Program
 date: 2018-07-06
 menu: main
 ---
