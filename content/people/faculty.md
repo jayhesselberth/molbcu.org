@@ -1,9 +1,11 @@
 ---
-title: "Faculty"
+title: "Program Faculty"
+linktitle: "Faculty"
 date: "2018-07-06T13:33:18-06:00"
 menu:
   main:
     weight: 20
+tags: [faculty]
 ---
 
 # Research Faculty

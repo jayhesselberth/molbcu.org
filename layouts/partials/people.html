@@ -1,12 +1,27 @@
-{{ range .data }}
-<div class="card">
-  <div class="container">
-    <h4><b>{{ .name }}</b></h4> 
-    <p>
+{{ if in .Params.tags "students"}}
+  {{ range $.Site.Data.students.data }}
+  <div class="card">
+    <img src="/img/avatar.png" alt="Avatar" style="width:50px">
+    <div class="container">
+      <h4><b>{{ .name }}</b></h4> 
+      <p>
       {{ .degree }}
       {{ .mentor }}
       {{ .interest }}
-    </p> 
+      </p> 
+    </div>
   </div>
-</div>
+  {{ end }}
+{{ else if in .Params.tags "faculty" }}
+  {{ range $.Site.Data.faculty.data }}
+  <div class="card">
+    <img src="/img/avatar.png" alt="Avatar" style="width:50px">
+    <div class="container">
+      <h4><b>{{ .name }}</b></h4> 
+      <p>
+      {{ .interest }}
+      </p> 
+    </div>
+  </div>
+  {{ end }}
 {{ end }}

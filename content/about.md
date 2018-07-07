@@ -1,5 +1,6 @@
 ---
-title: About
+title: Molecular Biology Program Overview
+linktitle: About
 date: 2018-07-06
 menu:
   main:

@@ -9,8 +9,8 @@ description: ''
 thumbnail: ''
 ---
 
-Applications to CU graduate school programs are [accepted
-online](http://www.ucdenver.edu/academics/colleges/Graduate-School/prospective/Pages/apply.aspx).
+Applications to CU graduate school programs are <a href="http://www.ucdenver.edu/academics/colleges/Graduate-School/prospective/Pages/apply.aspx" target="_blank">accepted
+online</a>.
 
 The deadline for admission for Fall 2019 is **December 1 2018**.
 

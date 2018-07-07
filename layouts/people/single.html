@@ -1,10 +1,17 @@
 {{ partial "header.html" . }}
 
-		<div class="page-content">
-		{{ range $.Site.Data }}
-    {{ partial "people.html" . }}
-    {{ end }}
-		</div>
+<main class="main content">
+ 
+  <div class="post__content clearfix">
+		{{ .Content }}
+	</div>
+
+  <!-- people info -->
+	<div class="page-content">
+  {{ partial "people.html" . }}
+	</div>
+	
+</main>
 
 {{ partial "sidebar.html" . }}
 {{ partial "footer.html" . }}
