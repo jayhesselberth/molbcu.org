@@ -8,6 +8,9 @@ faculty <- faculty_html %>%
   html_node(".ms-listviewtable") %>% 
   html_table(fill = TRUE) %>%
   as_tibble() %>%
-  setNames(c("name", "interest"))
+  setNames(c("name", "interest")) %>%
+  tidyr::separate(name, into = c("last", "first"), sep = ",") %>%
+  mutate(name = paste(str_trim(first), str_trim(last))) %>%
+  select(name, interest)
 
 jsonlite::write_json(faculty, "data/faculty/data.json", pretty = TRUE)

@@ -1,294 +1,280 @@
 [
   {
-    "name": "Anderson, Steven",
-    "interest": "My lab is interested in signaling pathways that regulate mammary gland development and tumorigenesis."
+    "name": "Steven Anderson",
+    "interest": "Mammary gland development and tumorigenesis."
   },
   {
-    "name": "Appel, Bruce",
+    "name": "Bruce Appel",
     "interest": "Development and repair of the vertebrate nervous system"
   },
   {
-    "name": "Artinger, Kristin",
-    "interest": "Molecular, genetic, and developmental mechanisms involved in the patterning of the early spinal cord (neural plate) during vertebrate embryogenesis."
+    "name": "Kristin Artinger",
+    "interest": "Patterning of the early spinal cord (neural plate) during vertebrate embryogenesis."
   },
   {
-    "name": "Asturias, Francisco",
-    "interest": "Many essential cellular processes are carried out by \"macromolecular machines\", large assemblies that often include tens of different proteins, each making a specific contribution to the function of the machine. Characterization of these large macromolecular complexes using a combination of techniques constitutes the next frontier in structural biology."
+    "name": "Francisco Asturias",
+    "interest": "Cryo-EM of macromolecular machines"
   },
   {
-    "name": "Barton, David",
+    "name": "David Barton",
     "interest": "Enterovirus RNA replication."
   },
   {
-    "name": "Bates, Emily",
-    "interest": "The use of genetics to determine the molecular mechanisms of pediatric disorders."
+    "name": "Emily Bates",
+    "interest": "Molecular mechanisms of pediatric disorders."
   },
   {
-    "name": "Bayer, Ulli",
-    "interest": "Molecular memory and synaptic plasticity, cellular signal transduction and neuronal function, CaMKII and Ca2+ signaling."
+    "name": "Ulli Bayer",
+    "interest": "Molecular memory and synaptic plasticity"
   },
   {
-    "name": "Bentley, David",
-    "interest": "Eukaryotic mRNA biogenesis: transcription and RNA processing."
+    "name": "David Bentley",
+    "interest": "Eukaryotic mRNA biogenesis"
   },
   {
-    "name": "Black, Joshua",
-    "interest": "Regulation of genome stability, cancer cell heterogeneity and chemotherapeutic responses by the chromatin microenvironment."
+    "name": "Joshua Black",
+    "interest": "Regulation of genome stability"
   },
   {
-    "name": "Bradford, Andrew",
-    "interest": "Regulation of tissue specific gene expression in response to hormonal and growth factor stimuli, characterization of fibroblast growth factor signaling in the pituitary, and the role of protein kinase C in endometrial cancer."
+    "name": "Carlos Catalano",
+    "interest": "Molecular mechanisms of virus development"
   },
   {
-    "name": "Catalano, Carlos",
-    "interest": "The studies performed in my lab fall into three broad categories that seek to understand the molecular mechanisms of virus development in the complex double-stranded DNA (dsDNA) viruses. The first project centers on the enzymology of terminase, the DNA packaging motor of bacteriophage lambda. The second project focuses on the procapsid into which the genome is packaged. The third project seeks to harness the lambda capsid as nanoparticle for “theragnostic” applications (Viral Bioengineering)."
-  },
-  {
-    "name": "Churchill, Mair",
+    "name": "Mair Churchill",
     "interest": "Structural biology of gene regulatory mechanisms"
   },
   {
-    "name": "Colgan, Sean",
-    "interest": "Understanding how epithelial and endothelial cells coordinate inflammatory bowel disease."
+    "name": "Sean Colgan",
+    "interest": "Epithelial and endothelial cells in inflammatory bowel disease."
   },
   {
-    "name": "D'Alessandro, Angelo",
-    "interest": "Omics technologies, especially metabolomics and proteomics, have helped us revealing emerging patterns in systemic responses to acute or chronic hypoxia."
+    "name": "Angelo D'Alessandro",
+    "interest": "Systemic responses to acute or chronic hypoxia."
   },
   {
-    "name": "Davis, Richard",
+    "name": "Richard Davis",
     "interest": "Programmed DNA elimination, novel RNAs, and RNA metabolism."
   },
   {
-    "name": "DeGregori, James",
-    "interest": "Cancer - understanding its evolution and targeting its dependencies."
+    "name": "James DeGregori",
+    "interest": "Cancer evolution and dependencies."
   },
   {
-    "name": "DiPaola, Jorge",
-    "interest": "The DiPaola laboratory dedicates all efforts to scientific and clinical problems related to the effect that critical components of the hemostatic system, such as platelets and coagulation factors, have on human disease... Our ultimate hope is that through research we can contribute to the improvement of lives of individuals with bleeding and thrombotic disorders."
+    "name": "Jorge DiPaola",
+    "interest": "Human diseases of the hemostatic system"
   },
   {
-    "name": "Eisenmesser, Elan",
+    "name": "Elan Eisenmesser",
     "interest": "Viral protein/host protein interactions and enzyme motions."
   },
   {
-    "name": "Ernst, Patricia",
+    "name": "Patricia Ernst",
     "interest": "Hematopoietic Stem Cell Development and Maintenance: The Role of the \"Mixed Lineage Leukemia\" Gene in Normal Blood Cell Development, Differentiation and Leukemia."
   },
   {
-    "name": "Evans, Chris",
+    "name": "Chris Evans",
     "interest": "Research in the Evans lab focuses on how airway mucins regulate respiratory health and disease."
   },
   {
-    "name": "Evans, Thomas",
+    "name": "Thomas Evans",
     "interest": "The control of embryonic polarity."
   },
   {
-    "name": "Fantauzzo, Katherine",
+    "name": "Katherine Fantauzzo",
     "interest": "Receptor tyrosine kinase signaling in mammalian craniofacial development"
   },
   {
-    "name": "Ford, Heide",
-    "interest": "The SIX family of homeobox genes and their role in development, cell cycle control and tumorigenesis.\r\n \r\nhttp://www.heidefordlab.org/"
+    "name": "Heide Ford",
+    "interest": "The SIX family of homeobox genes and their role in development, cell cycle control and tumorigenesis.",
+    "url": "http://www.heidefordlab.org/"
   },
   {
-    "name": "Gerber, Anthony",
+    "name": "Anthony Gerber",
     "interest": "The inter-relationship of glucocorticoid receptor signaling, inflammatory response, and lung function."
   },
   {
-    "name": "Gutierrez-Hartmann, Arthur",
-    "interest": "My laboratory focuses on two main projects: (1) elucidating the molecular mechanisms governing pituitary-specific gene expression; and, (2) determining the role of Ets transcription factors in breast cancer."
+    "name": "Arthur Gutierrez-Hartmann",
+    "interest": "Role of Ets transcription factors in breast cancer."
   },
   {
-    "name": "Hagman, James",
+    "name": "James Hagman",
     "interest": "Regulation of B lymphocyte - specific transcription and differentiation"
   },
   {
-    "name": "Hesselberth, Jay",
-    "interest": "Genomics of DNA and RNA Repair"
+    "name": "Jay Hesselberth",
+    "interest": "Genomics of DNA and RNA Repair",
+    "url": "https://hesselberthlab.org"
   },
   {
-    "name": "Holers, Michael",
+    "name": "Michael Holers",
     "interest": "Signal transduction through complement receptors."
   },
   {
-    "name": "Hooper, Joan",
+    "name": "Joan Hooper",
     "interest": "Cell and tissue interactions that control development and tissue homeostasis."
   },
   {
-    "name": "Hu, Cheng-Jun",
+    "name": "Cheng-Jun Hu",
     "interest": "Role of hypoxic response in tumor progression and metastasis"
   },
   {
-    "name": "Huang, Mingxia",
+    "name": "Mingxia Huang",
     "interest": "Function and regulation of the DNA damage response."
   },
   {
-    "name": "Hughes, Ethan",
+    "name": "Ethan Hughes",
     "interest": "Oligodendrocytes and their Precursors in the Adult Central Nervous System."
   },
   {
-    "name": "Johnson, Aaron",
-    "interest": "Our work focuses on the formation and regulation of chromatin domains and their ultimate roles in the nucleus. We are particularly interested in the mechanisms of heterochromatin establishment and function."
+    "name": "Aaron Johnson",
+    "interest": "Formation and regulation of chromatin domains and their ultimate roles in the nucleus."
   },
   {
-    "name": "Johnston, Mark",
+    "name": "Mark Johnston",
     "interest": "Functional genomics, glucose sensing and signaling."
   },
   {
-    "name": "Jones, David",
-    "interest": "How the three-dimensional structure of proteins and nucleic acids controls their biological function. NMR is used to study the structure and dynamics of biological molecules implicated in the development and progression of disease."
+    "name": "David Jones",
+    "interest": "Proteins and nucleic acids structure-function"
   },
   {
-    "name": "Jordan, Craig",
+    "name": "Craig Jordan",
     "interest": "The characterization and targeting of leukemia stem cells."
   },
   {
-    "name": "Kieft, Jeffrey",
-    "interest": "RNA structure and plasticity, viral RNA manipulation of host cell machines and enzymes, RNA-protein interactions, ribosome structure and function, use of RNA in engineered nanomachines, development of new tools for structural biology."
+    "name": "Jeffrey Kieft",
+    "interest": "RNA structure and plasticity"
   },
   {
-    "name": "Kutateladze, Tatiana",
-    "interest": "Biochemistry and Structural Biology; determination of the three-dimensional structures of proteins implicated in cancer by NMR spectroscopy and X-ray crystallography; the study of epigenetics and deciphering the histone code; molecular mechanisms of protein-phospholipid interactions; structure-based drug design."
+    "name": "Tatiana Kutateladze",
+    "interest": "Structural biology of epigenetics and deciphering the histone code"
   },
   {
-    "name": "Liu, Changwei",
+    "name": "Changwei Liu",
     "interest": "The ubiquitin proteasome pathway."
   },
   {
-    "name": "Macklin, Wendy",
+    "name": "Wendy Macklin",
     "interest": "Oligodendrocyte Differentiation and Myelination in the Central Nervous System"
   },
   {
-    "name": "Martin, Sandy",
+    "name": "Sandy Martin",
     "interest": "Mechanism of LINE-1 retrotransposition. Differential gene expression during hibernation."
   },
   {
-    "name": "McManaman, James",
-    "interest": "Lactation and Lipid secretion."
+    "name": "James McManaman",
+    "interest": "Lactation and lipid secretion."
   },
   {
-    "name": "McMurray, Michael",
-    "interest": "Mechanisms of assembly and inheritance of dynamic macromolecular structures: Higher-order septin assemblies in budding yeast"
+    "name": "Michael McMurray",
+    "interest": "Mechanisms of assembly and inheritance of dynamic macromolecular structures"
   },
   {
-    "name": "Moore, Jeff",
-    "interest": "Research description:  Molecular regulation of the microtubule network in cell division and disease"
+    "name": "Jeff Moore",
+    "interest": "Molecular regulation of the microtubule network in cell division and disease"
   },
   {
-    "name": "Mukherjee, Neelanjan",
+    "name": "Neelanjan Mukherjee",
     "interest": "Systems Biology of Human RNA Regulatory Networks"
   },
   {
-    "name": "Nichols, James",
+    "name": "James Nichols",
     "interest": "Skeletal development and variability."
   },
   {
-    "name": "Niswander, Lee",
+    "name": "Lee Niswander",
     "interest": "Genetic and Cellular Control of Vertebrate Embryonic Development"
   },
   {
-    "name": "Pearson, Chad",
+    "name": "Chad Pearson",
     "interest": "Centriole assembly and function"
   },
   {
-    "name": "Pietras, Eric",
-    "interest": "Dr. Pietras is a scientist who supervises a research laboratory focused on understanding the signals and molecular mechanisms that allow blood-forming stem cells to tailor their output in response to inflammation and other physiological challenges. His laboratory is also involved in understanding how these  mechanisms contribute to deregulated blood production in chronic inflammatory disease and leukemia."
+    "name": "Eric Pietras",
+    "interest": "Inflammation and hematopoiesis" 
   },
   {
-    "name": "Potter, Huntington",
-    "interest": "Our current research is devoted to laboratory and clinical investigation of neurodegenerative diseases, particularly Alzheimer’s disease (AD) and trisomy 21/Down syndrome (DS), which also induces AD by age 40. We hypothesized and showed that AD patients develop trisomy 21 and other aneuploid cells, including neurons, during the course of their life and thus that AD is a mosaic form of DS."
+    "name": "Huntington Potter",
+    "interest": "Neurodegenerative diseases and Down Syndrome"
   },
   {
-    "name": "Prekeris, Rytis",
-    "interest": "The role of cell polarity during cell division, epithelial tissue morphogenesis and cancer cell metastasis"
+    "name": "Rytis Prekeris",
+    "interest": "Cell polarity during cell division"
   },
   {
-    "name": "Pyeon, Dohun",
-    "interest": "Human Papillomaviruses (HPVs)"
+    "name": "Dohun Pyeon",
+    "interest": "Human Papillomaviruses"
   },
   {
-    "name": "Reis, Tânia",
-    "interest": "The Genetic Basis of Obesity and Neuronal Control of Energy Balance in Drosophila melanogaster"
+    "name": "Tânia Reis",
+    "interest": "Obesity and Neuronal Control of Energy Balance"
   },
   {
-    "name": "Reyland, Mary",
+    "name": "Mary Reyland",
     "interest": "Regulation of apoptosis in epithelial cells by signal transduction pathways."
   },
   {
-    "name": "Richer, Jennifer",
-    "interest": "The focus of my research is on the role of estrogen and progesterone receptors in breast and gynecological cancers, mechanisms of resistance to hormone therapy, and the differences between hormone dependent and independent breast cancer."
+    "name": "Jennifer Richer",
+    "interest": "Estrogen and progesterone receptors in breast and gynecological cancers"
   },
   {
-    "name": "Rissland, Olivia",
+    "name": "Olivia Rissland",
     "interest": "RNA post-transcriptional, decay and mechanisms of translational regulation."
   },
   {
-    "name": "Russ, Holger",
+    "name": "Holger Russ",
     "interest": "Generation and gene editing of human functional pancreatic and thymic cells to interrogate underlying mechansims of autoimmune diabetes."
   },
   {
-    "name": "Sclafani, Robert",
-    "interest": "The regulation of the eukaryotic cell cycle: DNA replication, repair and checkpoints important in cancer chemoprevention."
+    "name": "Matthew Sikora",
+    "interest": "Response and resistance to steroid hormones and anti-estrogen therapies in breast cancer."
   },
   {
-    "name": "Sikora, Matthew",
-    "interest": "The overall goal of the Sikora Laboratory is to understand mechanisms of response and resistance to steroid hormones and anti-estrogen therapies in breast cancer."
+    "name": "Lori Sussel",
+    "interest": "Transcriptional networks that regulate development, differentiation and function of the pancreas"
   },
   {
-    "name": "Sussel, Lori",
-    "interest": "The main focus of our research is to understand the complex transcriptional networks that regulate development, differentiation and function of the pancreas"
+    "name": "Matt Taliaferro",
+    "interest": "Spatial regulation of genetic information"
   },
   {
-    "name": "Taliaferro, Matt",
-    "interest": "We study how the expression of genetic information is spatially regulated within a cell."
+    "name": "Beth Tamburini",
+    "interest": "Lymphatic endothelial cells."
   },
   {
-    "name": "Taliaferro, Matthew",
-    "interest": "Gene expression; subcellular RNA localization; localized translation in neurons; high-throughput screening; RNA-seq"
-  },
-  {
-    "name": "Tamburini, Beth",
-    "interest": "To understand how interactions between LECs and canonical immune cells shape immune responses to infections, cancer, and chronic inflammation."
-  },
-  {
-    "name": "Thorburn, Andrew",
+    "name": "Andrew Thorburn",
     "interest": "Apoptosis regulation in cancer development and treatment."
   },
   {
-    "name": "Tucker, Chandra L.",
-    "interest": "Protein engineering and optogenetics. Developing engineered protein tools to control protein activity, localization, and interactions using light."
+    "name": "Chandra L. Tucker",
+    "interest": "Protein engineering and optogenetics"
   },
   {
-    "name": "VanDyk, Linda",
+    "name": "Linda VanDyk",
     "interest": "Control of growth regulation and differentiation of host cells in viral infection and persistence."
   },
   {
-    "name": "Vasil, Michael",
-    "interest": "Molecular mechanisms of bacterial pathogenesis and gene regulation in procaryotes, including Mycobacteria tuberculosis and Pseudomonas aeruginosa."
+    "name": "Andrés Vázquez-Torres",
+    "interest": "Host response to intracellular pathogenic microorganisms"
   },
   {
-    "name": "Vázquez-Torres, Andrés",
-    "interest": "Understanding the role that mononuclear phagocytes play in the host response to intracellular pathogenic microorganisms"
-  },
-  {
-    "name": "Voskuil, Martin",
+    "name": "Martin Voskuil",
     "interest": "Mechanisms of Mycobacterium tuberculosis for survival during latent disease."
   },
   {
-    "name": "Wang, Jing",
-    "interest": "Genomic instability and cancer development; molecular mechanisms of somatic hypermutation and class switch recombination; metastasis and genomic instability."
+    "name": "Jing Wang",
+    "interest": "Genomic instability and cancer development"
   },
   {
-    "name": "Wang, Xiao-Jing",
+    "name": "Xiao-Jing Wang",
     "interest": "Head, Neck, and Skin Cancer Research"
   },
   {
-    "name": "Williams,Trevor",
-    "interest": "Transcriptional regulation of mouse embryonic development and the role of transcription factors in mammary gland development and breast cancer."
+    "name": "Trevor Williams",
+    "interest": "Transcriptional regulation of mouse embryonic development"
   },
   {
-    "name": "Zhao, Rui",
-    "interest": "Molecular mechanism of pre-mRNA splicing; drug design targeting transcriptional complex in breast cancer"
+    "name": "Rui Zhao",
+    "interest": "Molecular mechanism of pre-mRNA splicing"
   }
 ]

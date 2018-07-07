@@ -24,6 +24,9 @@
       <p>
       {{ .interest }}
       </p> 
+      {{ if .url }}
+      <a href="{{ .url }}">Lab website</a>
+      {{ end }}
     </div>
   </div>
   {{ end }}
