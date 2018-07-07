@@ -31,3 +31,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     tags = true # Enable "Tags" widget
     tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
     social_twitter = "molbcu"
+    
+[permalinks]
+    post = "/:year/:month/:slug/"
+    code = "/:filename/"
