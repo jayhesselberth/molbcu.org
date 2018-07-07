@@ -1,22 +1,20 @@
 ---
+linktitle: Application & Admissions
 title: Admission to the Molecular Biology Program
-author: ~
-date: '2018-07-06'
-slug: admissions
-categories: []
+menu:
+  main:
+   weight: 40 
 tags: ["Apply"]
-description: ''
-thumbnail: ''
 ---
-
+  
 Applications to CU graduate school programs are <a href="http://www.ucdenver.edu/academics/colleges/Graduate-School/prospective/Pages/apply.aspx" target="_blank">accepted
 online</a>.
 
 The deadline for admission for Fall 2019 is **December 1 2018**.
 
 A completed application consists of:
-
-- Completed application form
+  
+  - Completed application form
 - 3 letters of reference
 - Official transcripts
 - GRE scores (optional for the Molecular Biology program)
@@ -24,7 +22,7 @@ A completed application consists of:
 
 The average undergraduate GPA of accepted students is 3.40. Students seeking
 admission should have taken Organic Chemistry (2 semesters; including 1 semester
-of laboratory), Biology, General Physics, and college level mathematics through
+                                               of laboratory), Biology, General Physics, and college level mathematics through
 Calculus. Courses in Biochemistry, Physical Chemistry, and Genetics are
 recommended. Research experience is strongly recommended. Students with
 excellent records and research experience who lack specific courses are
