@@ -1,5 +1,5 @@
 ---
-title: About the Program
+title: About
 date: 2018-07-06
 menu:
   main:

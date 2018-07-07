@@ -10,11 +10,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [Author]
     name = "Jay Hesselberth"
     bio = "Yep."
-    avatar = "img/people/hesselberth.png"
+    avatar = "img/faculty/hesselberth.png"
 
 
 [Params]
-    subtitle = "Just another site" # Subtitle of your site
     description = "University of Colorado Molecular Biology Program" # Description of your site
     opengraph = true
     twitter_cards = true

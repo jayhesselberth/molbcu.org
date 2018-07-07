@@ -1,0 +1,11 @@
+{{ partial "header.html" . }}
+
+		<div class="page-content">
+		{{ range $.Site.Data }}
+    {{ partial "people.html" . }}
+    {{ end }}
+		</div>
+
+{{ partial "sidebar.html" . }}
+{{ partial "footer.html" . }}
+
