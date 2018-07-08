@@ -8,5 +8,7 @@ menu:
 categories: [students]
 ---
 
-Graduate students in the program span the range of molecule biology. Students have been awarded HHMI Gilliam Fellowship, NSF Graduate Research Fellowships, and the Bolie Scholarship.
+# Molecular Biology Graduate Students
+
+Graduate students in the program span the range of molecular biology. Students have been awarded HHMI Gilliam Fellowship, NSF Graduate Research Fellowships, and the Bolie Scholarship.
 

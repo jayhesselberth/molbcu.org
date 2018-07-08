@@ -14,16 +14,13 @@ The research interests of program faculty span the breadth of molecular biology.
 
 <!--more-->
 
-The research interests of 69 program faculty include:
+Faculty interests include:
 
-- Mechanisms of DNA replication, RNA transcription, and mRNA translation
-- Cell biology of cell division
-
-Our faculty employ experimental systems including bacteria, viruses, yeast
-cells, Xenopus oocytes, Drosophila, C. elegans, human tissue culture cells, and
-genetically engineered mice. Our faculty also provide training in high
-resolution structure of proteins and RNA/DNA by x-ray crystallography and NMR.
-Because of the solid funding record of all participating faculty, graduate
-students find unlimited opportunities to perform research in an atmosphere of
-both guidance and freedom.
-
+- DNA replication, RNA transcription, localization and mRNA translation
+- Bioinformatics and computational biology
+- Intracellular regulation of cell division, signaling, stress responses, and molecular assemblies
+- Genetic and molecular mechanisms governing organismal development, tissue differentiation and cell fates
+- Structural biology of macromolecular machines, proteins and nucleic acids
+- Pathogenic mechanisms of infectious and non-communicable disease
+- Drug discovery and molecular mechanisms of drug resistance and response
+- Technology and methods development, including optogenetics and gene editing
