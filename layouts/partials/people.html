@@ -1,4 +1,4 @@
-{{ if in .Params.tags "students"}}
+{{ if in .Params.categories "students"}}
   <div class="cards">
   {{ range $.Site.Data.students.data }}
   <div class="card">
@@ -14,7 +14,7 @@
   </div>
   {{ end }}
   </div>
-{{ else if in .Params.tags "faculty" }}
+{{ else if in .Params.categories "faculty" }}
   <div class="cards">
   {{ range $.Site.Data.faculty.data }}
   <div class="card">

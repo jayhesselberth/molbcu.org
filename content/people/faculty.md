@@ -5,10 +5,14 @@ date: "2018-07-06T13:33:18-06:00"
 menu:
   main:
     weight: 20
-tags: [faculty]
+categories: [faculty]
 ---
 
-# Research Faculty
+# Program faculty
+
+The research interests of program faculty span the breadth of molecular biology.
+
+<!--more-->
 
 The research interests of 69 program faculty include:
 
