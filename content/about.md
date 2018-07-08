@@ -22,32 +22,32 @@ training grants. As a testament to our program's success, program graduates have
 been successful at securing positions in academic, government and industrial
 settings.
 
-## Current Students / Faculty
+## Current Students and Faculty
 
 - 41 full time PhD students
-- 64 faculty from 12 different departments
+- 69 faculty from 12 different departments
 - 17% URM students
 - 56% female students
 
 ## Program Activities
 
-- Annual scientific retreat in the Rocky Mountains
+- Annual retreat in the Rocky Mountains
 - Weekly seminar series
 - Monthly student-led roundtables
 - Annual spring symposium
 
-## Program History / Statistics
+## Program History and Statistics
 
 - Founded in 1987
 - Graduates to date: 98
-- Avg. time to graduation: 5.6 years
-- Avg. incoming student GPA and GRE (AY 15-16): 3.40 and 156/153/4.0
+- Time to graduation: 5.6 years (mean)
+- Incoming student GPA and GRE (AY 15-16): 3.40 and 156/153/4.0 (mean)
 
-## Funding / Financial Assistance
+## Funding and Financial Assistance
 
+- **Annual stipend: $30,000 (2018-2019)**
 - Year One: Stipend, tuition, and fees paid by Graduate School
 - Year Two and Beyond: Stipend, tuition, and fees paid by thesis advisor
-- NIH training grant
-- Bolie Graduate Scholarship Fund and Bolie Travel Awards
-- Program faculty >$20,000,000 in annual grants
-- Annual stipend: $28,500 (2015-2016)
+- [NIH T32 training grant](https://projectreporter.nih.gov/project_info_description.cfm?aid=9533604&icde=40204035)
+- Victor W. Bolie Graduate Scholarship Fund and Travel Award
+- Program faculty >$20 million annually in grants
