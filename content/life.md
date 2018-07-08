@@ -31,7 +31,8 @@ The free [intercampus shuttle](http://www.ucdenver.edu/about/departments/Facilit
 
 ### Parking 
 
-TBD
+Students who wish to park on campus during business hours can purchase a standard parking pass ($38/month) or a pass to the nearby Rock Lot ($12/month). No cost permits for after hours and weekend parking are also available. Answers to some frequently asked questions about student parking can be found [here](http://www.ucdenver.edu/about/departments/FacilitiesManagement/Documents/Parking/COMMONLY%20ASKED%20QUESTIONS%20Student%202017.pdf).
+
 
 ## Benefits
 
