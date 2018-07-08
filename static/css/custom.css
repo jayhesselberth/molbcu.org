@@ -395,7 +395,7 @@ select {
   display: flex;
   justify-content: center; /* align horizontal */
   align-items: center; /* align vertical */
-	padding: 20px;
+	padding: 1.5vh;
 }
 
 .logo-left {
@@ -406,6 +406,12 @@ select {
 .logo-right {
   flex: 60%;
   padding: 0px;
+}
+
+@media (max-width: 768px) {
+  .logo .logo-right {
+    display: none;
+  }
 }
 
 .logo__link {
