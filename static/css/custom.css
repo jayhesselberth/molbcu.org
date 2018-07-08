@@ -1,7 +1,7 @@
 /* cards for students / faculty */
 .cards {
   display: grid;
-  grid-template-columns: repeat(3, 200px);
+  grid-template-columns: repeat(4, 220px);
   grid-auto-rows: auto;
   grid-gap: 1rem;
 }
