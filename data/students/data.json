@@ -1,208 +1,204 @@
 [
   {
-    "name": "​Rachel Ancar",
+    "name": "Rachel Ancar",
     "degree": "B.A., Biology, B.S. History, Univ. of Colorado Denver, 2014",
-    "mentor": "Mentor: Hesselberth, Jay R.",
+    "mentor": "Hesselberth, Jay R.",
     "interest": "RNA cleavage and processing in nucleic acid immunity"
   },
   {
-    "name": "​Tessa Arends",
+    "name": "Tessa Arends",
     "degree": "B.S., Cellular and Molecular Biology, Metropolitan State Univ., 2014",
-    "mentor": "Mentor: Hagman, James R.",
+    "mentor": "Hagman, James R.",
     "interest": "The role of alternative splicing in B cells"
   },
   {
-    "name": "​Margaret Balas",
+    "name": "Margaret Balas",
     "degree": "B.S., Biology, Metropolitan State college, 2011",
-    "mentor": "Mentor: Johnson, Aaron M.",
-    "interest": "Long noncoding RNAs and how they function in heterochromatin establishment and maintenance"
+    "mentor": "Johnson, Aaron M.",
+    "interest": "Long noncoding RNAs in heterochromatin establishment and maintenance"
   },
   {
     "name": "Danielle Bilodeau",
     "degree": "B.Sc., Biology, Univ. of Sainte Anne, 2016",
-    "mentor": "Mentor: Rissland, Olivia"
+    "mentor": "Rissland, Olivia"
   },
   {
     "name": "Roberto Castro-Gutierrez",
     "degree": "B.S., Cellular & Molecular Biochemistry, Univ. of Texas El Paso, 2017"
   },
   {
-    "name": "​Patrick Cherry",
+    "name": "Patrick Cherry",
     "degree": "B.A., Hendrix College, 2013",
-    "mentor": "Mentor: Hesselberth, Jay R.",
-    "interest": "RNA processing and repair, especially in the context of the unfolded protein response"
+    "mentor": "Hesselberth, Jay R.",
+    "interest": "RNA processing and repair in the unfolded protein response"
   },
   {
     "name": "Joseph Cleveland",
     "degree": "B.S., Marine Biology, Texas A&M Univ., 2010; M.S., Biology/Genetics, California State Univ. Long Beach, 2014",
-    "mentor": "Mentor: Tucker, Chandra L."
+    "mentor": "Tucker, Chandra L."
   },
   {
-    "name": "​Michael Cortazar-Osorio",
+    "name": "Michael Cortazar-Osorio",
     "degree": "Chemistry, Valle State Univ., Columbia, 2011",
-    "mentor": "Mentor: Bentley, David L.",
+    "mentor": "Bentley, David L.",
     "interest": "Regulation of premature transcriptional termination"
   },
   {
     "name": "Kristin Dahl",
     "degree": "B.S., Zoology, Ohio State Univ., 2007",
-    "mentor": "Mentor: Macklin, Wendy",
-    "interest": "I am interested in studying how mTOR contributes to cytoskeleton rearrangement in oligodendrocytes during Myelination"
+    "mentor": "Macklin, Wendy",
+    "interest": "mTOR regulation of oligodendrocyte cytoskeleton rearrangement during myelination"
   },
   {
     "name": "Ashley Denney",
     "degree": "B.S., Biomedical Sciences, Colorado State Univ., 2009",
-    "mentor": "Mentor: McMurray, Michael A.",
-    "interest": "Impact of folding dynamics on the dimerization and dominance of tumor-derived p53 mutants."
+    "mentor": "McMurray, Michael A.",
+    "interest": "Folding dynamics in dimerization and dominance of tumor-derived p53 mutants."
   },
   {
     "name": "Emily Duncan",
     "degree": "B.S., Biochemistry, Univ. of Washington, 2013",
-    "mentor": "Mentor: Prekeris, Rytis",
-    "interest": "I am interested in elucidating the role of Rab GTPase mediated ubiquitination during cell migration and invasion."
+    "mentor": "Prekeris, Rytis",
+    "interest": "Rab GTPase-mediated ubiquitylation in cell migration and invasion."
   },
   {
     "name": "Nina Elder",
     "degree": "B.S., Biology, Univ. of St. Thomas, 2016",
-    "mentor": "Mentor: Potter, Huntington"
+    "mentor": "Potter, Huntington"
   },
   {
-    "name": "​Sara Espinosa",
+    "name": "Sara Espinosa",
     "degree": "B.S., Biochemistry/Molecular biology, Loyola Univ. Chicago, 2009",
-    "mentor": "Mentor: Zhao, Rui",
-    "interest": "I am interested in the structure and function of the spliceosome. In particular, I want to define the role of yeast U1 snRNP in 5’ss recognition and apply this knowledge to alternative splicing factors that have been linked to the human U1 snRNP."
+    "mentor": "Zhao, Rui",
+    "interest": "Spliceosomal structure and function"
   },
   {
     "name": "Cassi Estrem",
     "degree": "B.S., MCD Biology & Biochemistry, Univ. of Colorado Boulder, 2010",
-    "mentor": "Mentor: Moore, Jeffrey",
-    "interest": "Works on dynein regulation by its microtubule track and its influence on microtubule dynamics to properly position the mitotic spindle in budding yeast."
+    "mentor": "Moore, Jeffrey",
+    "interest": "Dynein regulation of microtubule dynamics"
   },
   {
     "name": "Marlie Fisher",
     "degree": "B.A., Molecular, Cellular, and Developmental Biology, Univ. of Colorado Boulder, 2014",
-    "mentor": "Mentor: Di Paola, Jorge",
-    "interest": "Understanding the role of ETV6 in megakaryopoesis"
+    "mentor": "Di Paola, Jorge",
+    "interest": "ETV6 in megakaryopoesis"
   },
   {
     "name": "Claire Gillette",
     "degree": "B.A., MCDB, Biology and Biochemistry, Univ. of Colorado Boulder, 2014",
-    "mentor": "Mentor: Reis, Tania"
+    "mentor": "Reis, Tania"
   },
   {
     "name": "Raeann Goering",
     "degree": "B.S., Biochemistry, Hamline Univ., 2017"
   },
   {
-    "name": "​Ariel Hernandez",
+    "name": "Ariel Hernandez",
     "degree": "B.S., Univ. of New Orleans, 2007",
-    "mentor": "Mentor: Wang, Xiao-Jing",
-    "interest": "How Smad4 mutant HNSCC sense and respond to DNA damage induced by PARP inhibition"
+    "mentor": "Wang, Xiao-Jing",
+    "interest": "Smad4 mutantion in small-cell carcinoma"
   },
   {
-    "name": "​Eric Jaffe",
+    "name": "Eric Jaffe",
     "degree": "B.S., Molecular Biology, Univ. of Wisconsin Madison, 2010",
-    "mentor": "Mentor: Niswander, Lee",
-    "interest": "I am currently doing research on neural tube closure focusing on another sheet of epithelial cells that lies adjacent to the neural plate called the non-neural ectoderm."
+    "mentor": "Niswander, Lee",
+    "interest": "Non-neural ectoderm and neural tube closure"
   },
   {
     "name": "Cayla Jewett",
     "degree": "B.S. Biochemistry, Univ. of Denver, 2012",
-    "mentor": "Mentor: Prekeris, Rytis",
-    "interest": "I am interested in the roles of membrane trafficking pathways during cell polarization and lumen formation."
+    "mentor": "Prekeris, Rytis",
+    "interest": "Membrane trafficking pathways in cell polarization and lumen formation."
   },
   {
-    "name": "​Molly Kingsley",
+    "name": "Molly Kingsley",
     "degree": "B.S., Biochemistry, Nazareth College, 2013",
-    "mentor": "Mentor: Bernt, Kathrin",
+    "mentor": "Bernt, Kathrin",
     "interest": "The role of DOT1L in acute myeloid leukemia _x000d_ with IDH1/2 mutations"
   },
   {
-    "name": "​Gabriella Li",
+    "name": "Gabriella Li",
     "degree": "B.S., Molecular Biology, Univ. of Denver, 2015",
-    "mentor": "Mentor: Moore, Jeff",
+    "mentor": "Moore, Jeff",
     "interest": "Intrinsic control of microtubule dynamics"
   },
   {
-    "name": "​Erik Linklater",
+    "name": "Erik Linklater",
     "degree": "B.S., Biochemistry & Molecular Biology, Michigan State Univ., 2010",
-    "mentor": "Mentor: Prekeris, Rytis",
-    "interest": "The motility of both cancerous and non-cancerous cells requires the rearrangement of the cytoskeleton and the formation of actin-rich cellular protrusions."
+    "mentor": "Prekeris, Rytis",
+    "interest": "Cell motility"
   },
   {
-    "name": "​Johannes Menzel",
+    "name": "Johannes Menzel",
     "degree": "M.S., Anatomy and Cell Biology, Univ. of Saskatchewan, 2013",
-    "mentor": "Mentor: Black, Joshua"
+    "mentor": "Black, Joshua"
   },
   {
     "name": "Harry Park",
     "degree": "B.S., Biochemistry, Univ. of Oregon, 2011",
-    "mentor": "Mentor: DeGregori, James"
+    "mentor": "DeGregori, James"
   },
   {
-    "name": "Juliana Phillips",
-    "degree": "B.A., Biology, Greenville College, 2017"
-  },
-  {
-    "name": "​Jennifer Rabe",
+    "name": "Jennifer Rabe",
     "degree": "B.S., Biology, Univ. of Colorado, 2012",
-    "mentor": "Mentor: Pietras, Eric",
-    "interest": "Interests involve understanding molecular mechanisms through which cell-intrinsic and microenvironmental deregulations in hematopoiesis collaborate to drive the pathogenesis of blood cancers."
+    "mentor": "Pietras, Eric",
+    "interest": "Hematopoietic deregulation that drives blood cancer."
   },
   {
     "name": "Stephan Ramos",
     "degree": "B.A., Biomedical Sciences, Northern Arizona Univ., 2016",
-    "mentor": "Mentor: Russ, Holger"
+    "mentor": "Russ, Holger"
   },
   {
-    "name": "​Amanda Richer",
+    "name": "Amanda Richer",
     "degree": "B.A., Molecular Biology and Chemistry, Goshen College, 2011",
-    "mentor": "Mentor: Hesselberth, Jay",
+    "mentor": "Hesselberth, Jay",
     "interest": "Multiplexed measurement of DNA repair capacity"
   },
   {
     "name": "Justin Roberts",
     "degree": "M.S., Biology, Univ. of South Alabama, 2016",
-    "mentor": "Mentor: Johnson, Aaron M.",
-    "interest": "Role of m6a modifications in the recruitment of long noncoding RNAs to chromatin"
+    "mentor": "Johnson, Aaron M.",
+    "interest": "m6A modifications that recruit long noncoding RNAs to chromatin"
   },
   {
     "name": "Emmanuel Rosas",
     "degree": "B.S., Biology, Univ. of Texas Brownsville, 2015",
-    "mentor": "Mentor: Richer, Jennifer K.",
-    "interest": "I am currently developing an unbiased synthetic nucleoside Bromodeoxyuridine incorporation technique that can enrich genomic regions that experience re-replication. We plan to employ genome wide high throughput sequencing to this technique to identify new regions of TSSG."
+    "mentor": "Richer, Jennifer K.",
+    "interest": "???"
   },
   {
     "name": "Johnathon Schafer",
     "degree": "B.A., MCDB, Biochemistry, Univ. of Colorado Boulder, 2014",
-    "mentor": "Mentor: Tamburini, Beth."
+    "mentor": "Tamburini, Beth."
   },
   {
-    "name": "​Ryan Sheridan",
+    "name": "Ryan Sheridan",
     "degree": "B.S., Univ. of Missouri St. Louis, 2012",
-    "mentor": "Mentor: Bentley, David L.",
-    "interest": "The Role of RNA Polymerase II Elongation Control in Transcription Dynamics"
+    "mentor": "Bentley, David L.",
+    "interest": "Role of RNA Polymerase II Elongation Control in Transcription Dynamics"
   },
   {
-    "name": "​James Till",
+    "name": "James Till",
     "degree": "B.S., Biology/Pro-professional, Florida Gulf Coast Univ., 2016",
-    "mentor": "Mentor: Vázquez-Torres, Andrés",
-    "interest": "Deciphering the mechanisms of Nitric Oxide-induced gentamicin tolerance in Salmonella"
+    "mentor": "Vázquez-Torres, Andrés",
+    "interest": "Mechanisms of Nitric Oxide-induced gentamicin tolerance in Salmonella"
   },
   {
-    "name": "​Ruth Wang",
+    "name": "Ruth Wang",
     "degree": "B.S., Biology and Biochemistry, Univ. of New Mexico, 2014",
-    "mentor": "Mentor: Colgan, Sean"
+    "mentor": "Colgan, Sean"
   },
   {
     "name": "Kimberly Wellman",
     "degree": "B.S., Microbiology, Univ. of Washington, 2011",
-    "mentor": "Mentor: Mukherjee, Neelanjan"
+    "mentor": "Mukherjee, Neelanjan"
   },
   {
-    "name": "​Laura White",
+    "name": "Laura White",
     "degree": "M.S., Biotechnology, John Hopkins Univ., 2013",
-    "mentor": "Mentor: Hesselberth, Jay R.",
+    "mentor": "Hesselberth, Jay R.",
     "interest": "RNA repair"
   },
   {
@@ -214,9 +210,9 @@
     "degree": "B.S., Biology, Franciscan Univ. Steubenville, 2015"
   },
   {
-    "name": "​Katie Yergert",
+    "name": "Katie Yergert",
     "degree": "M.A., Forensic DNA and Serology, Univ. of Florida, 2012",
-    "mentor": "Mentor: Appel, Bruce H.",
+    "mentor": "Appel, Bruce H.",
     "interest": "Mechanisms of activity-dependent RNA stability and translation in oligodendrocytes"
   }
 ]

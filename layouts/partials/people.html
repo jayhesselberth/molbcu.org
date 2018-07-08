@@ -5,11 +5,11 @@
     <img src="/img/avatar.png" alt="Avatar" style="width:50px">
     <div class="container">
       <h4><b>{{ .name }}</b></h4> 
-      <p>
-      {{ .degree }}
-      {{ .mentor }}
-      {{ .interest }}
-      </p> 
+      <ul class="list-unstyled">
+        <li><small><b>{{ .interest }}</b></small></li>
+        <li><small>{{ .degree }}</small></li>
+        <li><small>Lab: {{ .mentor }}</small></li>
+      </ul>
     </div>
   </div>
   {{ end }}
@@ -21,12 +21,12 @@
     <img src="/img/avatar.png" alt="Avatar" style="width:50px">
     <div class="container">
       <h4><b>{{ .name }}</b></h4> 
-      <p>
-      {{ .interest }}
-      </p> 
+      <ul class="list-unstyled">
+      <li>{{ .interest }}</li>
       {{ if .url }}
-      <a href="{{ .url }}">Lab website</a>
+      <li><a href="{{ .url }}">Lab website</a></lid>
       {{ end }}
+      </ul>
     </div>
   </div>
   {{ end }}
