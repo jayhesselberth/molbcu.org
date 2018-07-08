@@ -93,7 +93,7 @@ body {
 .container-inner {
 	position: relative;
 	width: 100%;
-	max-width: 1080px;
+	max-width: 1440px;
 	margin: 0 auto;
 }
 
@@ -108,13 +108,13 @@ body {
 }
 
 .content {
-	width: 65.83%;
+	width: 75%;
 	overflow: hidden;
 }
 
 .sidebar {
 	float: left;
-	width: 31.66%;
+	width: 20%;
 }
 
 .clearfix {
