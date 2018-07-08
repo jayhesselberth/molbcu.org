@@ -392,7 +392,20 @@ select {
 }
 
 .logo {
-	padding: 25px;
+  display: flex;
+  justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */
+	padding: 20px;
+}
+
+.logo-left {
+  flex: 40%;
+  padding: 0px;
+}
+
+.logo-right {
+  flex: 60%;
+  padding: 0px;
 }
 
 .logo__link {

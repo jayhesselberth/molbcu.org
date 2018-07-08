@@ -28,7 +28,12 @@
 		<header class="header">
 			<div class="container container-inner">
 				<div class="logo" role="banner">
-          <a class="logo__link" href="{{ "" | relLangURL }}"><img src="/img/header-logo.svg" height="100px"></a>
+				  <div class="logo logo-left">
+            <a class="logo__link" href="{{ "" | relLangURL }}"><img src="/img/header-logo.svg" height="100px"></a>
+          </div>
+				  <div class="logo logo-right">
+            <a class="logo__link" href="{{ "" | relLangURL }}"><img src="/img/logo-cartoons.svg" height="100px"></a>
+          </div>
 				</div>
 			</div>
 			{{ partial "menu.html" . }}
