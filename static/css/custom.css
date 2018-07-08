@@ -600,7 +600,8 @@ select {
 
 .post__thumbnail img {
 	height: 100px;
-	text-align: right;
+	width: auto;
+	float: right;
 }
 
 .post__content a,
