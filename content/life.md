@@ -1,12 +1,11 @@
 ---
+title: Living in Denver
 linktitle: Student life
 toc: true
 menu:
   main:
     weight: 100
 ---
-
-# Living in Denver
 
 The Graduate School has a good [overview on Denver Life](http://www.ucdenver.edu/academics/colleges/Graduate-School/prospective/Pages/colorado.aspx).
 
