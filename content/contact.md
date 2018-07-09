@@ -14,12 +14,15 @@ menu:
 ## Director
 
 Rytis Prekeris, Ph.D.
-<rytis.prekeris@ucdenver.edu>
+
+- <a href="mailto:rytis.prekeris@ucdenver.edu"><i class="fa fa-envelope" style="font-size:24" aria-hidden="true"></i> rytis.prekeris@ucdenver.edu</a>
 
 ## Administrator
 
 Sabrena Heilman
-<sabrena.heilman@ucdenver.edu>
+
+- <a href="mailto:sabrena.heilman@ucdenver.edu"><i class="fa fa-envelope" style="font-size:24" aria-hidden="true"></i> sabrena.heilman@ucdenver.edu</a>
+- <a href="tel:+13037243245"><i class="fa fa-phone" aria-hidden="true"></i> 303-724-3245</a>
 
 ## Program Address
 
@@ -27,7 +30,4 @@ Sabrena Heilman
 Rm. L18-9112, MS 8122 <br>
 Aurora, CO 80045
 
-## Phone
-
-303-724-3245
 
