@@ -1,5 +1,5 @@
 ---
-title: New first-year students join the RNA community
+title: New first-year students in the RNA community
 author: ~
 date: '2018-07-09'
 slug: rbi-summer
@@ -19,4 +19,4 @@ Two incoming MOLB first-year students are participating in the [RNA Bioscience I
 
 <img src="/img/students/arely.png" style="float: right" width="150px"/>
 
-**Arely Diaz** joins the program from the University of Texas El Paso where she was an undergraduate researcher studying XXX. She is currently working in [Neel Mukherjee's lab](https://nmukherjee.github.io/index.html) studying RNA metabolism.
+**Arely Diaz** joins the program from the University of Texas El Paso where she was an undergraduate researcher. She is currently working in [Neel Mukherjee's lab](https://nmukherjee.github.io/index.html) studying a long non-coding RNA in melanoma.
