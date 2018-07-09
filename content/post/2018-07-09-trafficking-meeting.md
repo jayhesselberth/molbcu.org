@@ -13,8 +13,10 @@ Please join us for the inaugural Rocky Mountain Membrane Trafficking Meeting on 
 
 <!--more-->
 
-This one day meeting, sponsored by ASCB, will be held the CU Anschutz campus and is open to all! We are very excited to host our keynote speaker, [Wes Sundquist from the University of Utah](https://medicine.utah.edu/biochemistry/labs/sundquist-lab/), as we bring together researchers from across the Rocky Mountain region.
+This one day meeting, sponsored by [ASCB](https://www.ascb.org/), will be held the CU Anschutz campus and is open to all!
 
-**Please [register](link https://tinyurl.com/yao57gpc) by August 1**. Email us questions at <RMMT2018@gmail.com>.
+We are excited to host our keynote speaker, [Wes Sundquist from the University of Utah](https://medicine.utah.edu/biochemistry/labs/sundquist-lab/) and other researchers from across the Rocky Mountain region.
+
+**Please [register](https://tinyurl.com/yao57gpc) by August 1**. Email us questions at <RMMT2018@gmail.com>.
 
 
