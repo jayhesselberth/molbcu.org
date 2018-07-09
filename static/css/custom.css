@@ -25,6 +25,16 @@
   list-style: none;
 }
 
+.map {
+  float: right;
+}
+
+@media only screen and (max-width: 1024px) {
+  .map {
+    display: none;
+  }
+}
+
 *,
 *::before,
 *::after {
