@@ -1,5 +1,6 @@
 ---
 linktitle: Student life
+toc: true
 menu:
   main:
     weight: 100
@@ -9,17 +10,11 @@ menu:
 
 The Graduate School has a good [overview on Denver Life](http://www.ucdenver.edu/academics/colleges/Graduate-School/prospective/Pages/colorado.aspx).
 
-![distances](http://www.ucdenver.edu/academics/colleges/Graduate-School/PublishingImages/colorado/denver_line_art.png)
-
 ## Housing
 
 - Graduate School-sponsored [housing survey](http://www.ucdenver.edu/academics/colleges/Graduate-School/prospective/Pages/housing.aspx).
 
 ## Commuting
-
-### Biking
-
-XXX
 
 ### Public transportation
 
@@ -28,6 +23,8 @@ The [Regional Transportation District (RTD)](http://www.rtd-denver.com/) provide
 The [CU Anschutz Medical Campus Rail Shuttle](http://www.ucdenver.edu/about/departments/FacilitiesManagement/Pages/railshuttle.aspx) provides regular service to Fitzsimmons Station on the R Line. A convenient option for traveling to Boulder is RTD's [Flatiron Flyer](http://www.rtd-denver.com/flatiron-flyer.shtml), which connects the Anschutz campus to the downtown Boulder station by bus.
 
 The free [intercampus shuttle](http://www.ucdenver.edu/about/departments/FacilitiesManagement/ParkingMaps/Pages/ShuttleService.aspx) makes hourly stops on weekdays at the Anschutz Medical Campus, the VA Medical Center, National Jewish Health, and the Auraria campus in downtown Denver.
+
+![distances](http://www.ucdenver.edu/academics/colleges/Graduate-School/PublishingImages/colorado/denver_line_art.png)
 
 ### Parking 
 

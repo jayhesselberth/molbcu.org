@@ -2,6 +2,7 @@
 title: Molecular Biology Program Overview
 linktitle: Overview
 date: 2018-07-06
+toc: true
 menu:
   main:
     weight: 10

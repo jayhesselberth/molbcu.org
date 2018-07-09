@@ -746,6 +746,7 @@ select {
 	border-right-width: 1px;
 	border-bottom-width: 0;
 	border-left-width: 1px;
+	float: right;
 }
 
 .toc__title {
