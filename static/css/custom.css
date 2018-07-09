@@ -47,12 +47,15 @@ dialog,
 figcaption,
 figure,
 footer,
-header,
 hgroup,
 main,
 nav,
 section {
 	display: block;
+}
+
+header {
+  display: inline-block;
 }
 
 :focus::-webkit-input-placeholder {
