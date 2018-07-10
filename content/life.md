@@ -7,11 +7,15 @@ menu:
     weight: 100
 ---
 
-The Graduate School has a good [overview on Denver Life](http://www.ucdenver.edu/academics/colleges/Graduate-School/prospective/Pages/colorado.aspx).
+Denver is at the feet of the Rocky Mountains and is routinely ranked one of the best places to live in the country. Unfortunately Denver's rapid growth also means that rent and housing prices continue to rise. The Graduate School has a good [overview on Denver Life](http://www.ucdenver.edu/academics/colleges/Graduate-School/prospective/Pages/colorado.aspx).
 
 ## Housing
 
 - Graduate School-sponsored [housing survey](http://www.ucdenver.edu/academics/colleges/Graduate-School/prospective/Pages/housing.aspx).
+
+## Stipend and benefits
+
+Ph.D. students receive a stipend of $30,000 per year, paid in monthly installments on the last working day of each month. The Program also pays tuition, fees, and [health/dental insurance](http://www.ucdenver.edu/life/services/student-health/Pages/default.aspx) for the first year; these costs are paid by a student's chosen thesis mentor thereafter.
 
 ## Commuting
 
@@ -28,10 +32,6 @@ The free [intercampus shuttle](http://www.ucdenver.edu/about/departments/Facilit
 ### Parking 
 
 Students who wish to park on campus during business hours can purchase a standard parking pass ($38/month) or a pass to the nearby Rock Lot ($12/month). No cost permits for after hours and weekend parking are also available. Answers to some frequently asked questions about student parking can be found [here](http://www.ucdenver.edu/about/departments/FacilitiesManagement/Documents/Parking/COMMONLY%20ASKED%20QUESTIONS%20Student%202017.pdf).
-
-## Stipend and benefits
-
-Ph.D. students receive a stipend of $30,000 per year, paid in monthly installments on the last working day of each month. The Program also pays tuition, fees, and [health/dental insurance](http://www.ucdenver.edu/life/services/student-health/Pages/default.aspx) for the first year; these costs are paid by a student's chosen thesis mentor thereafter.
 
 <img src="/img/colorado.png" style="float:right; margin-right: 15px" />
 
