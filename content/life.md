@@ -33,6 +33,8 @@ Students who wish to park on campus during business hours can purchase a standar
 
 Ph.D. students receive a stipend of $30,000 per year, paid in monthly installments on the last working day of each month. The Program also pays tuition, fees, and [health/dental insurance](http://www.ucdenver.edu/life/services/student-health/Pages/default.aspx) for the first year; these costs are paid by a student's chosen thesis mentor thereafter.
 
+<img src="/img/colorado.png" style="float:right; margin-right: 15px" />
+
 ## Fun
 
 For winter sports lovers, Denver is the gateway to some of the best skiing and snowboarding in the country, with many popular mountains within a 1-3 hour drive. CU Anschutz Student Senate sponsors a SkiDaze event in late September where students can purchase discounted packs of ski lift tickets or season passes.
