@@ -17,6 +17,14 @@ Denver is vibrant and still has a small city feeling. But Denver's rapid growth 
 
 Ph.D. students receive a stipend of $30,000 per year, paid in monthly installments on the last working day of each month. The Program also pays tuition, fees, and [health/dental insurance](http://www.ucdenver.edu/life/services/student-health/Pages/default.aspx) for the first year; these costs are paid by a student's chosen thesis mentor thereafter.
 
+<img src="/img/colorado.png" style="float:right; margin-right: 15px" />
+
+## Fun
+
+For winter sports lovers, Denver is the gateway to some of the best skiing and snowboarding in the country, with many popular mountains within a 1-3 hour drive. CU Anschutz Student Senate sponsors a SkiDaze event in late September where students can purchase discounted packs of ski lift tickets or season passes.
+
+- [Day Hikes Near Denver](https://dayhikesneardenver.com/)
+
 ## Commuting
 
 ### Public transportation
@@ -33,10 +41,3 @@ The free [intercampus shuttle](http://www.ucdenver.edu/about/departments/Facilit
 
 Students who wish to park on campus during business hours can purchase a standard parking pass ($38/month) or a pass to the nearby Rock Lot ($12/month). No cost permits for after hours and weekend parking are also available. Answers to some frequently asked questions about student parking can be found [here](http://www.ucdenver.edu/about/departments/FacilitiesManagement/Documents/Parking/COMMONLY%20ASKED%20QUESTIONS%20Student%202017.pdf).
 
-<img src="/img/colorado.png" style="float:right; margin-right: 15px" />
-
-## Fun
-
-For winter sports lovers, Denver is the gateway to some of the best skiing and snowboarding in the country, with many popular mountains within a 1-3 hour drive. CU Anschutz Student Senate sponsors a SkiDaze event in late September where students can purchase discounted packs of ski lift tickets or season passes.
-
-- [Day Hikes Near Denver](https://dayhikesneardenver.com/)
