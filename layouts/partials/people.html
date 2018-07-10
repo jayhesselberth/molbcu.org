@@ -2,9 +2,8 @@
   <div class="cards">
   {{ range $.Site.Data.students.data }}
   <div class="card">
-    <img src="/img/avatar.png" alt="Avatar" style="width:50px">
     <div class="container">
-      <h4><b>{{ .name }}</b></h4> 
+      <b>{{ .name }}</b>
       <ul class="list-unstyled">
         <li><small><b>{{ .interest }}</b></small></li>
         <li><small>{{ .degree }}</small></li>
@@ -18,15 +17,25 @@
   <div class="cards">
   {{ range $.Site.Data.faculty.data }}
   <div class="card">
-    <img src="/img/avatar.png" alt="Avatar" style="width:50px">
     <div class="container">
-      <h4><b>{{ .name }}</b></h4> 
-      <ul class="list-unstyled">
-      <li>{{ .interest }}</li>
-      {{ if .url }}
-      <li><a href="{{ .url }}">Lab website</a></lid>
+      {{ with .img }}
+      <img src="{{ . }}" alt="{{ .name }}" style="width:50px; float: right">
       {{ end }}
-      </ul>
+      <b>{{ .name }}</b>
+      <p>
+      {{ .interest }}<br/>
+      {{ with .url }}
+      <a href="{{ . }}"><i class="fa fa-globe fa-2x" aria-hidden="true"></i></a>
+      {{ end }}
+      {{ with .ncbi }}
+      <a href="{{ . }}"><i class="ai ai-pubmed ai-2x"></i></a>
+      {{ end }}
+      {{ with .orcid }}
+      <a href="{{ . }}"><i class="ai ai-orcid ai-2x"></i></a>
+      {{ end }}
+      {{ with .scholar }}
+      <a href="{{ . }}"><i class="ai ai-google-scholar ai-2x"></i></a>
+      {{ end }}
     </div>
   </div>
   {{ end }}
