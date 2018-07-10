@@ -11,7 +11,6 @@
 			<img src="{{ .Params.thumbnail | relURL }}" alt="{{ .Title }}">
 		</figure>
 		{{- end }}
-		{{- partial "post_toc.html" . -}}
 		<div class="post__content clearfix">
 			{{ .Content }}
 		</div>

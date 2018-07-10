@@ -15,6 +15,12 @@
 	<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .RelPermalink | safeURL }}">
 	{{- end }}
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+	
+	<!-- <script type="text/javascript" src="{{ "js/scripts.js" | relURL }}"></script> -->
+	<!-- Responsive-nav -->
+	<script src="https://cdn.jsdelivr.net/npm/responsive-nav@1.0.39/client/dist/responsive-nav.min.js" integrity="sha256-OMVpcQD0vrhtfRNkQHzToWeD7eXnwT4AcQIxLPFhmO0=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/responsive-nav@1.0.39/responsive-nav.css" integrity="sha256-1dboOukIBFiOGn0eS49msoQ8sw7SF0u7gliZWTzC/+M=" crossorigin="anonymous">
+
 	<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 	<!-- Custom stylesheet - for your changes -->
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/custom.css"> 

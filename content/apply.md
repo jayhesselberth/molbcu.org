@@ -1,5 +1,5 @@
 ---
-linktitle: Application & Admissions
+linktitle: Apply
 title: Admission to the Molecular Biology Program
 menu:
   main:
