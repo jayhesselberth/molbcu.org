@@ -7,11 +7,11 @@ menu:
     weight: 100
 ---
 
-Denver is at the feet of the Rocky Mountains and is routinely ranked one of the best places to live in the country. Unfortunately Denver's rapid growth also means that rent and housing prices continue to rise. The Graduate School has a good [overview on Denver Life](http://www.ucdenver.edu/academics/colleges/Graduate-School/prospective/Pages/colorado.aspx).
+Denver is at the feet of the Rocky Mountains and is routinely ranked one of the best places to live in the country. The Graduate School has a good [overview on Denver Life](http://www.ucdenver.edu/academics/colleges/Graduate-School/prospective/Pages/colorado.aspx).
 
 ## Housing
 
-- Graduate School-sponsored [housing survey](http://www.ucdenver.edu/academics/colleges/Graduate-School/prospective/Pages/housing.aspx).
+Denver is vibrant and still has a small city feeling. But Denver's rapid growth also means that rent and housing prices continue to rise. The Graduate School sponsored a [housing survey](http://www.ucdenver.edu/academics/colleges/Graduate-School/prospective/Pages/housing.aspx) that collates feedback from students on the Anschutz campus.
 
 ## Stipend and benefits
 
