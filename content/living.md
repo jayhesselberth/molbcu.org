@@ -19,11 +19,13 @@ Ph.D. students receive a stipend of $30,000 per year, paid in monthly installmen
 
 <img src="/img/colorado.png" style="float:right; margin-right: 15px" />
 
-## Fun
+## Recreation
 
 For winter sports lovers, Denver is the gateway to some of the best skiing and snowboarding in the country, with many popular mountains within a 1-3 hour drive. CU Anschutz Student Senate sponsors a SkiDaze event in late September where students can purchase discounted packs of ski lift tickets or season passes.
 
 - [Day Hikes Near Denver](https://dayhikesneardenver.com/)
+
+The [Anschutz Health and Wellness Center](https://anschutzwellness.com/) is located on campus and offers a monthly rate of $35 for students.
 
 ## Commuting
 

@@ -19,6 +19,10 @@ is designed to equip students for careers at the cutting edge of biology.
 
 **Many details about the program are described in the [Student Handbook](/MOLB-handbook-2017.pdf)**.
 
+# Anschutz Medical Campus
+
+The Molecular Biology Program is located on the CU Anschutz Medical Campus, one of four University of Colorado campuses serving the Rocky Mountain region. CU Anschutz is 6 miles east of downtown Denver in Colorado’s third largest city, Aurora. CU Anschutz is one of the newest health sciences campuses in the nationbut and is the largest academic health center in the Rocky Mountain regional area. With funding totaling more than $450 million annually, CU Anschutz has become a national leader both in health care and life sciences research through a combination of teaching, research, and clinical facilities. The campus provides a variety of [state-of-the-art facilities](http://www.ucdenver.edu/academics/colleges/medicalschool/departments/medicine/Pages/CR-AMC-Research-Cores.aspx). Graduate students in the Molecular Biology Program interact with many sectors of campus, yielding a highly interdisciplinary and collaborative training program. 
+
 # Curriculum
 
 The program is designed for students to complete the Ph.D. degree in five to six years and is geared to train students for successful careers in biomedical research. The number of courses required is fairly limited, thus providing ample time and flexibility for pursuit and development of individualized research interests. There are no teaching assistant requirements. Stipends for students are provided for laboratory research.
@@ -38,6 +42,21 @@ Students are expected to form a thesis committee and pass their comprehensive ex
 ## Biomolecular Structure Track
 
 Incoming students have the opportunity to train in a specialty track in Biomolecular Structure.  This track provides additional course work in advanced protein chemistry and structural analysis of biomolecules and the opportunity to conduct thesis research in laboratories that have expertise in the application of NMR spectroscopy, X-Ray crystallography, mass spectrometry, and Cryo electron microscropy to questions concerning that of structure and function of biomolecules. More details are available in Appendix 3 of the Student Handbook.
+
+## Professional Development
+
+The [NIH BESST](https://gs.ucdenver.edu/besst/) program provides career development opportunities in biomedical science training to increase the preparedness and employability of bioscience Ph.D. in the non-academic workforce. 
+
+# Outreach and Advocacy
+
+Many student-run professional organizations provide opportunities to get involved in leadership, community outreach, and graduate student advocacy.
+
+- [CU Anschutz Women in STEM](https://amcwistem.com/)
+- [SACNAS](http://www.ucdenver.edu/about/departments/odi/OIO/Programs/undergraduate/SACNAS/Pages/CU%20Anschutz%20Medical%20Campus%20SACNAS%20Chapters.aspx)
+- [PRISM](https://ucdprism.wordpress.com/)
+- [Graduate Student Council](http://www.ucdenver.edu/anschutz/studentresources/student-assistance/organizations/gsc/Pages/GSC-Home.aspx)
+- [Student Senate](http://www.ucdenver.edu/anschutz/studentresources/student-assistance/organizations/senate/Pages/StudentSenate.aspx)
+- [Academic Industry Alliance](http://www.ucdenver.edu/academics/colleges/Graduate-School/Academic-Industry-Alliance/Pages/Home.aspx)
 
 # Program Statistics
 
