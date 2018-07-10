@@ -134,6 +134,10 @@ blockquote {
 	background: #CFB87C;
 }
 
+.toc {
+    float: right;
+}
+
 .toc__menu a {
 	color: #CFB87C;
 }
