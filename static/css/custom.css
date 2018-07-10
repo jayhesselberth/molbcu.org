@@ -52,7 +52,6 @@ body {
 	width: 20%;
 }
 
-
 .btn:hover {
 	background: #CFB87C;
 }
@@ -84,6 +83,12 @@ blockquote {
 
 @media (max-width: 768px) {
   .logo .logo-right {
+    display: none;
+  }
+}
+
+@media (max-width: 425px) {
+  .sidebar, .toc {
     display: none;
   }
 }
@@ -134,9 +139,11 @@ blockquote {
 	background: #CFB87C;
 }
 
+/*
 .toc {
     float: right;
 }
+*/
 
 .toc__menu a {
 	color: #CFB87C;
