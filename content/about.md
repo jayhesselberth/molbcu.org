@@ -17,6 +17,8 @@ biotechnology industry. In almost all aspects of modern biomedical research, a
 professional knowledge of molecular biology is essential. Our training program
 is designed to equip students for careers at the cutting edge of biology.
 
+**Many details about the program are described in the [Student Handbook](/MOLB-handbook-2017.pdf)**.
+
 # Curriculum
 
 The program is designed for students to complete the Ph.D. degree in five to six years and is geared to train students for successful careers in biomedical research. The number of courses required is fairly limited, thus providing ample time and flexibility for pursuit and development of individualized research interests. There are no teaching assistant requirements. Stipends for students are provided for laboratory research.
