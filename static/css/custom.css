@@ -1,3 +1,23 @@
+/* responsive-nav tweaks */
+
+.nav-toggle {
+	display: block;
+	padding: 10px 15px;
+	font-weight: 700;
+	color: #fff;
+	text-align: right;
+	text-transform: uppercase;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+	background: #2a2a2a;
+	-webkit-tap-highlight-color: #000;
+	-webkit-touch-callout: none;
+}
+
+
 /* cards for students / faculty */
 .cards {
   display: grid;

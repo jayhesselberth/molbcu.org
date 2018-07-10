@@ -16,25 +16,24 @@
 	{{- end }}
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
 	
-	<!-- <script type="text/javascript" src="{{ "js/scripts.js" | relURL }}"></script> -->
 	<!-- Responsive-nav -->
 	<script src="https://cdn.jsdelivr.net/npm/responsive-nav@1.0.39/client/dist/responsive-nav.min.js" integrity="sha256-OMVpcQD0vrhtfRNkQHzToWeD7eXnwT4AcQIxLPFhmO0=" crossorigin="anonymous"></script>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/responsive-nav@1.0.39/responsive-nav.css" integrity="sha256-1dboOukIBFiOGn0eS49msoQ8sw7SF0u7gliZWTzC/+M=" crossorigin="anonymous">
 
-	<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
-	<!-- Custom stylesheet - for your changes -->
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/custom.css"> 
-
   <!-- font awesome and academicons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha256-NuCn4IvuZXdBaFKJOAcsU2Q3ZpwbdFisd5dux4jkQ5w=" crossorigin="anonymous" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous" />
- 
+  
+	<script type="text/javascript" src="{{ "js/scripts.js" | relURL }}"></script>
+ 	<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+	<!-- Custom stylesheet - for your changes -->
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/custom.css"> 
+
   <!-- favicons --> 
   <link rel="icon" type="image/png" href="/CU_favicon_16x16.png" sizes="16x16">
   <link rel="icon" type="image/png" href="/CU_favicon_32x32.png" sizes="32x32">
   <link rel="icon" type="image/png" href="/CU_favicon_96x96.png" sizes="96x96">
   
-	<script type="text/javascript" src="{{ "js/scripts.js" | relURL }}"></script>
 	{{ template "_internal/google_analytics_async.html" . }}
 </head>
 <body class="body {{ if (.Site.Params.leftsidebar) or (.Params.leftsidebar) }}body-left-sidebar{{ else }}body-right-sidebar{{ end }}">
