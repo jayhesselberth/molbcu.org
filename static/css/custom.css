@@ -61,6 +61,21 @@ body {
 	width: 20%;
 }
 
+.btn-link {
+	padding: 3px 3px;
+	border-radius: 3px;
+	border: 1px solid #FFFFFF;
+	font-weight: 700;
+	color: #fff;
+	white-space: pre-line;
+	background: #A2A4A3;
+}
+
+.btn-link:hover {
+	background: #CFB87C;
+	border: 1px solid #565A5C;
+}
+
 .btn:hover {
 	background: #CFB87C;
 }

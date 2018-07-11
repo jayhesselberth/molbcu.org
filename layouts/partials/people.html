@@ -18,23 +18,17 @@
   {{ range $.Site.Data.faculty.data }}
   <div class="card">
     <div class="container">
-      {{ with .img }}
-      <img src="{{ . }}" alt="{{ .name }}" style="width:50px; float: right">
+      {{ if .img }}
+      <img src="{{ .img }}" alt="{{ .name }}" style="width:100px; float: right" />
       {{ end }}
       <b>{{ .name }}</b>
       <p>
       {{ .interest }}<br/>
       {{ with .url }}
-      <a href="{{ . }}"><i class="fa fa-globe fa-2x" aria-hidden="true"></i></a>
+      <a href="{{.}}" target="_blank" class="btn btn-link">website</a>
       {{ end }}
       {{ with .ncbi }}
-      <a href="{{ . }}"><i class="ai ai-pubmed ai-2x"></i></a>
-      {{ end }}
-      {{ with .orcid }}
-      <a href="{{ . }}"><i class="ai ai-orcid ai-2x"></i></a>
-      {{ end }}
-      {{ with .scholar }}
-      <a href="{{ . }}"><i class="ai ai-google-scholar ai-2x"></i></a>
+      <a href="{{.}}" target="_blank" class="btn btn-link">publications</a>
       {{ end }}
     </div>
   </div>

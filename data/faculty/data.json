@@ -1,87 +1,108 @@
 [
   {
     "name": "Steven Anderson",
-    "interest": "Mammary gland development and tumorigenesis."
+    "interest": "Mammary gland development and tumorigenesis.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/Pathology/aboutus/faculty/Pages/anderson_s.aspx"
   },
   {
     "name": "Bruce Appel",
-    "interest": "Development and repair of the vertebrate nervous system"
+    "interest": "Development and repair of the vertebrate nervous system",
+    "url": "https://www.appellab.com/"
   },
   {
     "name": "Kristin Artinger",
-    "interest": "Patterning of the early spinal cord (neural plate) during vertebrate embryogenesis."
+    "interest": "Patterning of the early spinal cord (neural plate) during vertebrate embryogenesis.",
+    "url": "https://www.artingerlab.org/"
   },
   {
     "name": "Francisco Asturias",
-    "interest": "Cryo-EM of macromolecular machines"
+    "interest": "Cryo-EM of macromolecular machines",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Research/researchlabs/asturiaslab/Pages/default.aspx"
   },
   {
     "name": "David Barton",
-    "interest": "Enterovirus RNA replication."
+    "interest": "Enterovirus RNA replication.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/ImmunologyMicrobiology/faculty/departmental/Pages/BARTON.aspx"
   },
   {
     "name": "Emily Bates",
-    "interest": "Molecular mechanisms of pediatric disorders."
+    "interest": "Molecular mechanisms of pediatric disorders.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/pediatrics/subs/DevelopmentalBiology/researchlabs/Pages/Emily-Bates.aspx"
   },
   {
     "name": "Ulli Bayer",
-    "interest": "Molecular memory and synaptic plasticity"
+    "interest": "Molecular memory and synaptic plasticity",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/Pharmacology/faculty/Pages/bayer.aspx"
   },
   {
     "name": "David Bentley",
-    "interest": "Eukaryotic mRNA biogenesis"
+    "interest": "Eukaryotic mRNA biogenesis",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Faculty/PrimaryFaculty/Pages/Bentley.aspx"
   },
   {
     "name": "Joshua Black",
-    "interest": "Regulation of genome stability"
+    "interest": "Regulation of genome stability",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/Pharmacology/faculty/Pages/black.aspx"
   },
   {
     "name": "Carlos Catalano",
-    "interest": "Molecular mechanisms of virus development"
+    "interest": "Molecular mechanisms of virus development",
+    "url": "http://www.ucdenver.edu/academics/colleges/pharmacy/Departments/PharmaceuticalSciences/DOPSFaculty/A-G/Pages/CarlosCatalanoPhD.aspx"
   },
   {
     "name": "Mair Churchill",
-    "interest": "Structural biology of gene regulatory mechanisms"
+    "interest": "Structural biology of gene regulatory mechanisms",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/Pharmacology/faculty/Pages/churchill.aspx"
   },
   {
     "name": "Sean Colgan",
-    "interest": "Epithelial and endothelial cells in inflammatory bowel disease."
+    "interest": "Epithelial and endothelial cells in inflammatory bowel disease.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/medicine/Gastroenterology/Research/Pages/Research/Laboratory/ColganLab.aspx"
   },
   {
     "name": "Angelo D'Alessandro",
-    "interest": "Systemic responses to acute or chronic hypoxia."
+    "interest": "Systemic responses to acute or chronic hypoxia.",
+    "url": "https://www.dalessandrolab.com/"
   },
   {
     "name": "Richard Davis",
-    "interest": "Programmed DNA elimination, novel RNAs, and RNA metabolism."
+    "interest": "Programmed DNA elimination, novel RNAs, and RNA metabolism.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Faculty/PrimaryFaculty/Pages/Davis.aspx"
   },
   {
     "name": "James DeGregori",
-    "interest": "Cancer evolution and dependencies."
+    "interest": "Cancer evolution and dependencies.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Research/researchlabs/DeGregoriLab/Pages/default.aspx"
   },
   {
     "name": "Jorge DiPaola",
-    "interest": "Human diseases of the hemostatic system"
+    "interest": "Human diseases of the hemostatic system",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/pediatrics/subs/hemonc/research/labs/DiPaolaLab/Pages/DiPaolaLab.aspx"
   },
   {
     "name": "Elan Eisenmesser",
-    "interest": "Viral protein/host protein interactions and enzyme motions."
+    "interest": "Viral protein/host protein interactions and enzyme motions.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Faculty/PrimaryFaculty/Pages/Eisenmesser.aspx"
   },
   {
     "name": "Patricia Ernst",
-    "interest": "Hematopoietic Stem Cell Development and Maintenance"
+    "interest": "Hematopoietic Stem Cell Development and Maintenance",
+    "url": "http://pharmacology.ucdenver.edu/ernst/"
   },
   {
     "name": "Chris Evans",
-    "interest": "Regulation of respiratory health and disease by airway mucins"
+    "interest": "Regulation of respiratory health and disease by airway mucins",
+    "url": "https://profiles.ucdenver.edu/display/226659"
   },
   {
     "name": "Thomas Evans",
-    "interest": "Control of embryonic polarity"
+    "interest": "Control of embryonic polarity",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/ThomasE/Pages/EvansT.aspx"
   },
   {
     "name": "Katherine Fantauzzo",
-    "interest": "Receptor tyrosine kinase signaling in mammalian craniofacial development"
+    "interest": "Receptor tyrosine kinase signaling in mammalian craniofacial development",
+    "url": "http://www.ucdenver.edu/academics/colleges/dentalmedicine/FacultyResources/FacultyDirectory/Pages/FantauzzoKatherine.aspx"
   },
   {
     "name": "Heide Ford",
@@ -90,191 +111,239 @@
   },
   {
     "name": "Anthony Gerber",
-    "interest": "Glucocorticoid receptor signaling, inflammatory response, and lung function."
+    "interest": "Glucocorticoid receptor signaling, inflammatory response, and lung function.",
+    "url": "http://www.nationaljewish.org/Providers/Physicians/Anthony-N-Gerber"
   },
   {
     "name": "Arthur Gutierrez-Hartmann",
-    "interest": "Role of Ets transcription factors in breast cancer."
+    "interest": "Role of Ets transcription factors in breast cancer.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/GutierrezA/Pages/GutierrezA.aspx"
   },
   {
     "name": "James Hagman",
-    "interest": "Regulation of B lymphocyte specific transcription and differentiation"
+    "interest": "Regulation of B lymphocyte specific transcription and differentiation",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/HagmanJ/Pages/HagmanJ.aspx"
   },
   {
     "name": "Jay Hesselberth",
     "interest": "Genomics of nucleic acid Repair",
-    "url": "https://hesselberthlab.org"
+    "url": "https://hesselberthlab.org",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/sites/myncbi/jay.hesselberth.1/bibliography/41146593/public/?sort=date&direction=descending",
+    "img_nope": "/img/faculty/hesselberth.png"
   },
   {
     "name": "Michael Holers",
-    "interest": "Complement receptor signal transduction"
+    "interest": "Complement receptor signal transduction",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/medicine/Rheumatology/Pages/Faculty_Pages/VMichaelHolersMD.aspx"
   },
   {
     "name": "Joan Hooper",
-    "interest": "Cell and tissue interactions that control development and tissue homeostasis."
+    "interest": "Cell and tissue interactions that control development and tissue homeostasis.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/CellDevelopmentalBiology/facultyresearch/Pages/JoanHooper.aspx"
   },
   {
     "name": "Cheng-Jun Hu",
-    "interest": "Role of hypoxic response in tumor progression and metastasis"
+    "interest": "Role of hypoxic response in tumor progression and metastasis",
+    "url": "http://www.ucdenver.edu/academics/colleges/dentalmedicine/FacultyResources/FacultyDirectory/Pages/HuChengJun.aspx"
   },
   {
     "name": "Mingxia Huang",
-    "interest": "Function and regulation of the DNA damage response."
+    "interest": "Function and regulation of the DNA damage response.",
+    "url": "https://profiles.ucdenver.edu/display/224648"
   },
   {
     "name": "Ethan Hughes",
-    "interest": "Oligodendrocytes and their Precursors in the Adult Central Nervous System."
+    "interest": "Oligodendrocytes and their Precursors in the Adult Central Nervous System.",
+    "url": "https://www.ethanhugheslab.com/"
   },
   {
     "name": "Aaron Johnson",
-    "interest": "Formation and regulation of chromatin domains and their roles in the nucleus."
+    "interest": "Formation and regulation of chromatin domains and their roles in the nucleus.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/JohnsonA/Pages/aaronjohnson.aspx"
   },
   {
     "name": "Mark Johnston",
-    "interest": "Functional genomics, glucose sensing and signaling."
+    "interest": "Functional genomics, glucose sensing and signaling.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/JohnstonM/Pages/JohnstonM.aspx"
   },
   {
     "name": "David Jones",
-    "interest": "Proteins and nucleic acids structure-function"
+    "interest": "Proteins and nucleic acids structure-function",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/JonesD/Pages/JonesD.aspx"
   },
   {
     "name": "Craig Jordan",
-    "interest": "The characterization and targeting of leukemia stem cells."
+    "interest": "The characterization and targeting of leukemia stem cells.",
+    "url": "http://www.ucdenver.edu/ACADEMICS/COLLEGES/MEDICALSCHOOL/PROGRAMS/MOLBIO/FACULTY/JORDANC/Pages/JordanC.aspx"
   },
   {
     "name": "Jeffrey Kieft",
-    "interest": "RNA structure and plasticity"
+    "interest": "RNA structure and plasticity",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/KieftJ/Pages/KieftJ.aspx"
   },
   {
     "name": "Tatiana Kutateladze",
-    "interest": "Structural biology of epigenetics and deciphering the histone code"
+    "interest": "Structural biology of epigenetics and deciphering the histone code",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/KutateladzeT/Pages/KutateladzeT.aspx"
   },
   {
     "name": "Changwei Liu",
-    "interest": "The ubiquitin proteasome pathway."
+    "interest": "The ubiquitin proteasome pathway.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/LiuC/Pages/LiuC.aspx"
   },
   {
     "name": "Wendy Macklin",
-    "interest": "Oligodendrocyte Differentiation and Myelination in the Central Nervous System"
+    "interest": "Oligodendrocyte Differentiation and Myelination in the Central Nervous System",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/CellDevelopmentalBiology/facultyresearch/Pages/WendyMacklin.aspx"
   },
   {
     "name": "Sandy Martin",
-    "interest": "Differential gene expression during hibernation."
+    "interest": "Differential gene expression during hibernation.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/MartinS/Pages/MartinS.aspx"
   },
   {
     "name": "James McManaman",
-    "interest": "Lactation and lipid secretion."
+    "interest": "Lactation and lipid secretion.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/McManamanJ/Pages/McManamanJ.aspx"
   },
   {
     "name": "Michael McMurray",
-    "interest": "Assembly and inheritance of dynamic macromolecular structures"
+    "interest": "Assembly and inheritance of dynamic macromolecular structures",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/CellDevelopmentalBiology/facultyresearch/Pages/Michael-McMurray.aspx"
   },
   {
     "name": "Jeff Moore",
-    "interest": "Molecular regulation of the microtubule network in cell division and disease"
+    "interest": "Molecular regulation of the microtubule network in cell division and disease",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/MooreJ/Pages/default.aspx"
   },
   {
     "name": "Neelanjan Mukherjee",
-    "interest": "Systems Biology of Human RNA Regulatory Networks"
+    "interest": "Systems Biology of Human RNA Regulatory Networks",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Faculty/PrimaryFaculty/Pages/Mukherjee.aspx"
   },
   {
     "name": "James Nichols",
-    "interest": "Skeletal development and variability."
+    "interest": "Skeletal development and variability.",
+    "url": "http://www.ucdenver.edu/academics/colleges/dentalmedicine/FacultyResources/FacultyDirectory/Pages/NicholsJamie.aspx"
   },
   {
     "name": "Lee Niswander",
-    "interest": "Genetic and Cellular Control of Vertebrate Embryonic Development"
+    "interest": "Genetic and Cellular Control of Vertebrate Embryonic Development",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/NiswanderL/Pages/NiswanderL.aspx"
   },
   {
     "name": "Chad Pearson",
-    "interest": "Centriole assembly and function"
+    "interest": "Centriole assembly and function",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/PearsonC/Pages/PearsonC.aspx"
   },
   {
     "name": "Eric Pietras",
-    "interest": "Inflammation and hematopoiesis" 
+    "interest": "Inflammation and hematopoiesis",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/medicine/Hematology/bloodcancerandbmtprogram/people/faculty/Pages/PietrasEric.aspx"
   },
   {
     "name": "Huntington Potter",
-    "interest": "Neurodegenerative diseases and Down Syndrome"
+    "interest": "Neurodegenerative diseases and Down Syndrome",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/neurology/Faculty/Pages/potter.aspx"
   },
   {
     "name": "Rytis Prekeris",
-    "interest": "Cell polarity during cell division"
+    "interest": "Cell polarity during cell division",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/PrekerisR/Pages/PrekerisR.aspx"
   },
   {
     "name": "Dohun Pyeon",
-    "interest": "Human Papillomaviruses"
+    "interest": "Human Papillomaviruses",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/PyeonD/Pages/default.aspx"
   },
   {
     "name": "Tânia Reis",
-    "interest": "Obesity and Neuronal Control of Energy Balance"
+    "interest": "Obesity and Neuronal Control of Energy Balance",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/CSD/People/Faculty/Pages/TaniaReis.aspx"
   },
   {
     "name": "Mary Reyland",
-    "interest": "Regulation of apoptosis in epithelial cells by signal transduction pathways."
+    "interest": "Regulation of apoptosis in epithelial cells by signal transduction pathways.",
+    "url": "http://www.ucdenver.edu/academics/colleges/Graduate-School/academic-programs/cancerbiology/Pages/ReylandM.aspx"
   },
   {
     "name": "Jennifer Richer",
-    "interest": "Estrogen and progesterone receptors in breast and gynecological cancers"
+    "interest": "Estrogen and progesterone receptors in breast and gynecological cancers",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/Pathology/research/Pages/richerlab.aspx"
   },
   {
     "name": "Olivia Rissland",
-    "interest": "RNA post-transcriptional, decay and mechanisms of translational regulation."
+    "interest": "RNA post-transcriptional, decay and mechanisms of translational regulation.",
+    "url": "http://www.risslandlab.com/"
   },
   {
     "name": "Holger Russ",
-    "interest": "Functional human pancreatic and thymic cells to understand autoimmune diabetes."
+    "interest": "Functional human pancreatic and thymic cells to understand autoimmune diabetes.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/centers/BarbaraDavis/Research/Faculty/Pages/HolgerRuss.aspx"
   },
   {
     "name": "Matthew Sikora",
-    "interest": "Response and resistance to steroid hormones and anti-estrogen therapies in breast cancer."
+    "interest": "Response and resistance to steroid hormones and anti-estrogen therapies in breast cancer.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/Pathology/research/Pages/SikoraLab.aspx"
   },
   {
     "name": "Lori Sussel",
-    "interest": "Transcriptional networks that regulate pancreas development and differentiation"
+    "interest": "Transcriptional networks that regulate pancreas development and differentiation",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/centers/BarbaraDavis/Research/Faculty/Pages/LoriSussel.aspx"
   },
   {
     "name": "Matt Taliaferro",
-    "interest": "Spatial regulation of genetic information"
+    "interest": "Spatial regulation of genetic information",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Faculty/PrimaryFaculty/Pages/Taliaferro.aspx"
   },
   {
     "name": "Beth Tamburini",
-    "interest": "Lymphatic endothelial cells."
+    "interest": "Lymphatic endothelial cells.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/medicine/Gastroenterology/Research/Pages/Research/Laboratory/Tamburini-Lab.aspx"
   },
   {
     "name": "Andrew Thorburn",
-    "interest": "Apoptosis regulation in cancer development and treatment."
+    "interest": "Apoptosis regulation in cancer development and treatment.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/Pharmacology/faculty/Pages/thorburn.aspx"
   },
   {
     "name": "Chandra L. Tucker",
-    "interest": "Protein engineering and optogenetics"
+    "interest": "Protein engineering and optogenetics",
+    "url": "https://pharmacology.ucdenver.edu/tucker/"
   },
   {
     "name": "Linda VanDyk",
-    "interest": "Regulation of growthand host cell differentiation in viral infection and persistence."
+    "interest": "Regulation of growthand host cell differentiation in viral infection and persistence.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/ImmunologyMicrobiology/faculty/departmental/Pages/VANDYK.aspx"
   },
   {
     "name": "Andrés Vázquez-Torres",
-    "interest": "Host response to intracellular pathogenic microorganisms"
+    "interest": "Host response to intracellular pathogenic microorganisms",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/ImmunologyMicrobiology/faculty/departmental/Pages/VAZQUEZ-TORRES.aspx"
   },
   {
     "name": "Martin Voskuil",
-    "interest": "Mycobacterium tuberculosis survival during latent disease."
+    "interest": "Mycobacterium tuberculosis survival during latent disease.",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/ImmunologyMicrobiology/faculty/departmental/Pages/VOSKUIL.aspx"
   },
   {
     "name": "Jing Wang",
-    "interest": "Genomic instability and cancer development"
+    "interest": "Genomic instability and cancer development",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/ImmunologyMicrobiology/faculty/departmental/Pages/WANG.aspx"
   },
   {
     "name": "Xiao-Jing Wang",
-    "interest": "Head, Neck, and Skin Cancer Research"
+    "interest": "Head, Neck, and Skin Cancer Research",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/Pathology/aboutus/faculty/Pages/wang_x.aspx"
   },
   {
     "name": "Trevor Williams",
-    "interest": "Transcriptional regulation of mouse embryonic development"
+    "interest": "Transcriptional regulation of mouse embryonic development",
+    "url": "http://www.ucdenver.edu/academics/colleges/dentalmedicine/FacultyResources/FacultyDirectory/Pages/WilliamsTrevor.aspx"
   },
   {
     "name": "Rui Zhao",
-    "interest": "Molecular mechanism of pre-mRNA splicing"
+    "interest": "Molecular mechanism of pre-mRNA splicing",
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Faculty/PrimaryFaculty/Pages/Zhao.aspx"
   }
 ]
