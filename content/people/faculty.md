@@ -8,7 +8,7 @@ menu:
 categories: [faculty]
 ---
 
-# Program faculty
+# Molecular Biology Program Faculty
 
 The research interests of program faculty span the breadth of molecular biology.
 

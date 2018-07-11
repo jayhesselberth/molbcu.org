@@ -25,16 +25,10 @@
       <p>
       {{ .interest }}<br/>
       {{ with .url }}
-      <a href="{{ . }}"><i class="fa fa-globe fa-2x" aria-hidden="true"></i></a>
+      <a href="{{.}}" target="_blank" class="btn btn-link">Lab</a>
       {{ end }}
       {{ with .ncbi }}
-      <a href="{{ . }}"><i class="ai ai-pubmed ai-2x"></i></a>
-      {{ end }}
-      {{ with .orcid }}
-      <a href="{{ . }}"><i class="ai ai-orcid ai-2x"></i></a>
-      {{ end }}
-      {{ with .scholar }}
-      <a href="{{ . }}"><i class="ai ai-google-scholar ai-2x"></i></a>
+      <a href="{{.}}" target="_blank" class="btn btn-link">Pubs</a>
       {{ end }}
     </div>
   </div>
