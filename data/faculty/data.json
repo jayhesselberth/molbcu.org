@@ -69,15 +69,15 @@
   },
   {
     "name": "Patricia Ernst",
-    "interest": "Hematopoietic Stem Cell Development and Maintenance: The Role of the \"Mixed Lineage Leukemia\" Gene in Normal Blood Cell Development, Differentiation and Leukemia."
+    "interest": "Hematopoietic Stem Cell Development and Maintenance"
   },
   {
     "name": "Chris Evans",
-    "interest": "Research in the Evans lab focuses on how airway mucins regulate respiratory health and disease."
+    "interest": "Regulation of respiratory health and disease by airway mucins"
   },
   {
     "name": "Thomas Evans",
-    "interest": "The control of embryonic polarity."
+    "interest": "Control of embryonic polarity"
   },
   {
     "name": "Katherine Fantauzzo",
@@ -85,12 +85,12 @@
   },
   {
     "name": "Heide Ford",
-    "interest": "The SIX family of homeobox genes and their role in development, cell cycle control and tumorigenesis.",
+    "interest": "SIX family homeobox genes in development, cell cycle control and tumorigenesis.",
     "url": "http://www.heidefordlab.org/"
   },
   {
     "name": "Anthony Gerber",
-    "interest": "The inter-relationship of glucocorticoid receptor signaling, inflammatory response, and lung function."
+    "interest": "Glucocorticoid receptor signaling, inflammatory response, and lung function."
   },
   {
     "name": "Arthur Gutierrez-Hartmann",
@@ -98,16 +98,16 @@
   },
   {
     "name": "James Hagman",
-    "interest": "Regulation of B lymphocyte - specific transcription and differentiation"
+    "interest": "Regulation of B lymphocyte specific transcription and differentiation"
   },
   {
     "name": "Jay Hesselberth",
-    "interest": "Genomics of DNA and RNA Repair",
+    "interest": "Genomics of nucleic acid Repair",
     "url": "https://hesselberthlab.org"
   },
   {
     "name": "Michael Holers",
-    "interest": "Signal transduction through complement receptors."
+    "interest": "Complement receptor signal transduction"
   },
   {
     "name": "Joan Hooper",
@@ -127,7 +127,7 @@
   },
   {
     "name": "Aaron Johnson",
-    "interest": "Formation and regulation of chromatin domains and their ultimate roles in the nucleus."
+    "interest": "Formation and regulation of chromatin domains and their roles in the nucleus."
   },
   {
     "name": "Mark Johnston",
@@ -159,7 +159,7 @@
   },
   {
     "name": "Sandy Martin",
-    "interest": "Mechanism of LINE-1 retrotransposition. Differential gene expression during hibernation."
+    "interest": "Differential gene expression during hibernation."
   },
   {
     "name": "James McManaman",
@@ -167,7 +167,7 @@
   },
   {
     "name": "Michael McMurray",
-    "interest": "Mechanisms of assembly and inheritance of dynamic macromolecular structures"
+    "interest": "Assembly and inheritance of dynamic macromolecular structures"
   },
   {
     "name": "Jeff Moore",
@@ -223,7 +223,7 @@
   },
   {
     "name": "Holger Russ",
-    "interest": "Generation and gene editing of human functional pancreatic and thymic cells to interrogate underlying mechansims of autoimmune diabetes."
+    "interest": "Functional human pancreatic and thymic cells to understand autoimmune diabetes."
   },
   {
     "name": "Matthew Sikora",
@@ -231,7 +231,7 @@
   },
   {
     "name": "Lori Sussel",
-    "interest": "Transcriptional networks that regulate development, differentiation and function of the pancreas"
+    "interest": "Transcriptional networks that regulate pancreas development and differentiation"
   },
   {
     "name": "Matt Taliaferro",
@@ -251,7 +251,7 @@
   },
   {
     "name": "Linda VanDyk",
-    "interest": "Control of growth regulation and differentiation of host cells in viral infection and persistence."
+    "interest": "Regulation of growthand host cell differentiation in viral infection and persistence."
   },
   {
     "name": "Andrés Vázquez-Torres",
@@ -259,7 +259,7 @@
   },
   {
     "name": "Martin Voskuil",
-    "interest": "Mechanisms of Mycobacterium tuberculosis for survival during latent disease."
+    "interest": "Mycobacterium tuberculosis survival during latent disease."
   },
   {
     "name": "Jing Wang",

@@ -3,7 +3,7 @@
     "name": "Rachel Ancar",
     "degree": "B.A., Biology, B.S. History, Univ. of Colorado Denver, 2014",
     "mentor": "Hesselberth, Jay R.",
-    "interest": "RNA cleavage and processing in nucleic acid immunity"
+    "interest": "RNA cleavage and processing in innate immunity"
   },
   {
     "name": "Tessa Arends",
@@ -20,17 +20,19 @@
   {
     "name": "Danielle Bilodeau",
     "degree": "B.Sc., Biology, Univ. of Sainte Anne, 2016",
-    "mentor": "Rissland, Olivia"
+    "mentor": "Rissland, Olivia",
+    "interest": "RNA processing in Giardia"
   },
   {
     "name": "Roberto Castro-Gutierrez",
-    "degree": "B.S., Cellular & Molecular Biochemistry, Univ. of Texas El Paso, 2017"
+    "degree": "B.S., Cellular & Molecular Biochemistry, Univ. of Texas El Paso, 2017",
+    "mentor": "Russ, Holger"
   },
   {
     "name": "Patrick Cherry",
     "degree": "B.A., Hendrix College, 2013",
     "mentor": "Hesselberth, Jay R.",
-    "interest": "RNA processing and repair in the unfolded protein response"
+    "interest": "RNA processing in the unfolded protein response"
   },
   {
     "name": "Joseph Cleveland",
@@ -91,7 +93,8 @@
   },
   {
     "name": "Raeann Goering",
-    "degree": "B.S., Biochemistry, Hamline Univ., 2017"
+    "degree": "B.S., Biochemistry, Hamline Univ., 2017",
+    "mentor": "Taliaferro, Matthew"
   },
   {
     "name": "Ariel Hernandez",
@@ -132,7 +135,8 @@
   {
     "name": "Johannes Menzel",
     "degree": "M.S., Anatomy and Cell Biology, Univ. of Saskatchewan, 2013",
-    "mentor": "Black, Joshua"
+    "mentor": "Black, Joshua",
+    "interest": "DNA Re-replication"
   },
   {
     "name": "Harry Park",
@@ -166,7 +170,7 @@
     "name": "Emmanuel Rosas",
     "degree": "B.S., Biology, Univ. of Texas Brownsville, 2015",
     "mentor": "Richer, Jennifer K.",
-    "interest": "???"
+    "interest": "Hormone-dependent and independent cancers"
   },
   {
     "name": "Johnathon Schafer",
@@ -198,21 +202,23 @@
   {
     "name": "Laura White",
     "degree": "M.S., Biotechnology, John Hopkins Univ., 2013",
-    "mentor": "Hesselberth, Jay R.",
+    "mentor": "Hesselberth, Jay",
     "interest": "RNA repair"
   },
   {
     "name": "Stephen Wu",
-    "degree": "B.S., Biochemistry, Northeastern Univ., 2014"
+    "degree": "B.S., Biochemistry, Northeastern Univ., 2014",
+    "mentor": "Johnson, Aaron"
   },
   {
     "name": "Randi Yeager",
-    "degree": "B.S., Biology, Franciscan Univ. Steubenville, 2015"
+    "degree": "B.S., Biology, Franciscan Univ. Steubenville, 2015",
+    "mentor": "McMurray, Michael"
   },
   {
     "name": "Katie Yergert",
     "degree": "M.A., Forensic DNA and Serology, Univ. of Florida, 2012",
     "mentor": "Appel, Bruce H.",
-    "interest": "Mechanisms of activity-dependent RNA stability and translation in oligodendrocytes"
+    "interest": "Activity-dependent RNA stability and translation in oligodendrocytes"
   }
 ]
