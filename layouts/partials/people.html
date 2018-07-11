@@ -18,8 +18,8 @@
   {{ range $.Site.Data.faculty.data }}
   <div class="card">
     <div class="container">
-      {{ with .img }}
-      <img src="{{ . }}" alt="{{ .name }}" style="width:50px; float: right">
+      {{ if .img }}
+      <img src="{{ .img }}" alt="{{ .name }}" style="width:100px; float: right" />
       {{ end }}
       <b>{{ .name }}</b>
       <p>
