@@ -87,6 +87,11 @@
     "interest": "ETV6 in megakaryopoesis"
   },
   {
+    "name": "Laura George",
+    "degree": "B.S. University of Colorado - Colorado Springs",
+    "mentor": "Bates, Emily"
+  },
+  {
     "name": "Claire Gillette",
     "degree": "B.A., MCDB, Biology and Biochemistry, Univ. of Colorado Boulder, 2014",
     "mentor": "Reis, Tania"
@@ -115,10 +120,20 @@
     "interest": "Membrane trafficking pathways in cell polarization and lumen formation."
   },
   {
+    "name": "Rachel Jones",
+    "degree": "B.S. Univ. of Colorado Denver",
+    "mentor": "Kieft, Jeffrey"
+  },
+  {
     "name": "Molly Kingsley",
     "degree": "B.S., Biochemistry, Nazareth College, 2013",
     "mentor": "Bernt, Kathrin",
     "interest": "The role of DOT1L in acute myeloid leukemia _x000d_ with IDH1/2 mutations"
+  },
+  {
+    "name": "Divya Kolakada",
+    "degree": "B.S., Rollins College, 2016",
+    "mentor": "Jagannathan, Sujatha"
   },
   {
     "name": "Gabriella Li",
@@ -204,6 +219,11 @@
     "degree": "M.S., Biotechnology, John Hopkins Univ., 2013",
     "mentor": "Hesselberth, Jay",
     "interest": "RNA repair"
+  },
+  {
+    "name": "Linnea Wethekam",
+    "degree": "B.S., Denison Univ., 2016",
+    "mentor": "Moore, Jeffrey"
   },
   {
     "name": "Stephen Wu",
