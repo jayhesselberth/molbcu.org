@@ -30,6 +30,9 @@
       {{ with .ncbi }}
       <a href="{{.}}" target="_blank" class="btn btn-link">publications</a>
       {{ end }}
+      {{ if .nontraining }}
+      <i>Non-training faculty</i>
+      {{ end }}
     </div>
   </div>
   {{ end }}
