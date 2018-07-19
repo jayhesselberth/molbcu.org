@@ -7,12 +7,14 @@
   {
     "name": "Bruce Appel",
     "interest": "Development and repair of the vertebrate nervous system",
-    "url": "https://www.appellab.com/"
+    "url": "https://www.appellab.com/",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/sites/myncbi/bruce.appel.1/bibliography/40104249/public/?sort=date&direction=descending"
   },
   {
     "name": "Kristin Artinger",
     "interest": "Patterning of the early spinal cord (neural plate) during vertebrate embryogenesis.",
-    "url": "https://www.artingerlab.org/"
+    "url": "https://www.artingerlab.org/",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/40739773/?sort=date&direction=ascending"
   },
   {
     "name": "Francisco Asturias",
@@ -248,8 +250,9 @@
   },
   {
     "name": "Rytis Prekeris",
-    "interest": "Cell polarity during cell division",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/PrekerisR/Pages/PrekerisR.aspx"
+    "interest": "Regulation of cell division, cell polarity and cell migration",
+    "url": "https://www.prekerislab.com/",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/sites/myncbi/rytis.prekeris.1/bibliography/40597403/public/?sort=date&direction=descending"
   },
   {
     "name": "Dohun Pyeon",
@@ -329,7 +332,8 @@
   {
     "name": "Xiao-Jing Wang",
     "interest": "Head, Neck, and Skin Cancer Research",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/Pathology/aboutus/faculty/Pages/wang_x.aspx"
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/Pathology/aboutus/faculty/Pages/wang_x.aspx",
+    "ncbi": "http://www.ncbi.nlm.nih.gov/sites/myncbi/xiao-jing.wang.1/bibliography/40782167/public/?sort=date&direction=ascending"
   },
   {
     "name": "Trevor Williams",

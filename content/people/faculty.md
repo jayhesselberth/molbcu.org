@@ -18,7 +18,8 @@ Faculty interests include:
 
 - DNA replication, RNA transcription, localization and mRNA translation
 - Bioinformatics and computational biology
-- Intracellular regulation of cell division, signaling, stress responses, and molecular assemblies
+- Intracellular regulation of cell division, signaling, cell migration and cell polarization
+- Regulation of cell stress response and molecular assemblies
 - Genetic and molecular mechanisms governing organismal development, tissue differentiation and cell fates
 - Structural biology of macromolecular machines, proteins and nucleic acids
 - Pathogenic mechanisms of infectious and non-communicable disease
