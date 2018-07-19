@@ -140,9 +140,14 @@ blockquote {
 }
 
 .post__thumbnail img {
-	height: 100px;
+	height: 150;
 	width: auto;
 	float: right;
+}
+
+.list__thumbnail img {
+  height: 100px;
+  width: auto;
 }
 
 .post__content a,
