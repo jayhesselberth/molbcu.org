@@ -49,7 +49,8 @@
   {
     "name": "Carlos Catalano",
     "interest": "Molecular mechanisms of virus development",
-    "url": "http://www.ucdenver.edu/academics/colleges/pharmacy/Departments/PharmaceuticalSciences/DOPSFaculty/A-G/Pages/CarlosCatalanoPhD.aspx"
+    "url": "http://www.ucdenver.edu/academics/colleges/pharmacy/Departments/PharmaceuticalSciences/DOPSFaculty/A-G/Pages/CarlosCatalanoPhD.aspx",
+    "ncbi": "http://www.ncbi.nlm.nih.gov/myncbi/browse/collection/49431208/?sort=date&direction=descending"
   },
   {
     "name": "Mair Churchill",
@@ -104,7 +105,8 @@
   {
     "name": "Katherine Fantauzzo",
     "interest": "Receptor tyrosine kinase signaling in mammalian craniofacial development",
-    "url": "http://www.ucdenver.edu/academics/colleges/dentalmedicine/FacultyResources/FacultyDirectory/Pages/FantauzzoKatherine.aspx"
+    "url": "http://www.ucdenver.edu/academics/colleges/dentalmedicine/FacultyResources/FacultyDirectory/Pages/FantauzzoKatherine.aspx",
+    "ncbi": "http://www.ncbi.nlm.nih.gov/sites/myncbi/katherine.fantauzzo.2/bibliograpahy/44534215/public/?sort=date&direction=descending"
   },
   {
     "name": "Heide Ford",
@@ -128,7 +130,7 @@
   },
   {
     "name": "Jay Hesselberth",
-    "interest": "Genomics of nucleic acid Repair",
+    "interest": "Nucleic acid damage and repair",
     "url": "https://hesselberthlab.org",
     "ncbi": "https://www.ncbi.nlm.nih.gov/sites/myncbi/jay.hesselberth.1/bibliography/41146593/public/?sort=date&direction=descending",
     "img_nope": "/img/faculty/hesselberth.png"
@@ -146,7 +148,8 @@
   {
     "name": "Cheng-Jun Hu",
     "interest": "Role of hypoxic response in tumor progression and metastasis",
-    "url": "http://www.ucdenver.edu/academics/colleges/dentalmedicine/FacultyResources/FacultyDirectory/Pages/HuChengJun.aspx"
+    "url": "http://www.ucdenver.edu/academics/colleges/dentalmedicine/FacultyResources/FacultyDirectory/Pages/HuChengJun.aspx",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/sites/myncbi/cheng-jun.hu.1/bibliography/41158050/public/?sort=date&direction=descending"
   },
   {
     "name": "Mingxia Huang",
@@ -161,7 +164,8 @@
   {
     "name": "Aaron Johnson",
     "interest": "Formation and regulation of chromatin domains and their roles in the nucleus.",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/JohnsonA/Pages/aaronjohnson.aspx"
+    "url": "http://www.ajlab.org",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/42028300/?sort=date&direction=descending"
   },
   {
     "name": "Mark Johnston",
@@ -221,7 +225,8 @@
   {
     "name": "Neelanjan Mukherjee",
     "interest": "Systems Biology of Human RNA Regulatory Networks",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Faculty/PrimaryFaculty/Pages/Mukherjee.aspx"
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Faculty/PrimaryFaculty/Pages/Mukherjee.aspx",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/43365167/?sort=date&direction=descending"
   },
   {
     "name": "James Nichols",
@@ -241,7 +246,8 @@
   {
     "name": "Eric Pietras",
     "interest": "Inflammation and hematopoiesis",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/medicine/Hematology/bloodcancerandbmtprogram/people/faculty/Pages/PietrasEric.aspx"
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/medicine/Hematology/bloodcancerandbmtprogram/people/faculty/Pages/PietrasEric.aspx",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/sites/myncbi/1457Sd_wne5y/bibliography/47610293/public/?sort=date&direction=ascending"
   },
   {
     "name": "Huntington Potter",
