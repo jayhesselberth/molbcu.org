@@ -70,12 +70,14 @@
   {
     "name": "Richard Davis",
     "interest": "Programmed DNA elimination, novel RNAs, and RNA metabolism.",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Faculty/PrimaryFaculty/Pages/Davis.aspx"
+    "url": "http://140.226.65.22/Davis_lab/index.html",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/47297289/?sort=date&direction=descending"
   },
   {
     "name": "James DeGregori",
     "interest": "Cancer evolution and dependencies.",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Research/researchlabs/DeGregoriLab/Pages/default.aspx"
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Research/researchlabs/DeGregoriLab/Pages/default.aspx",
+    "ncbi": "http://www.ncbi.nlm.nih.gov/pubmed/?term=degregori+j"
   },
   {
     "name": "Jorge DiPaola",
@@ -90,7 +92,8 @@
   {
     "name": "Patricia Ernst",
     "interest": "Hematopoietic Stem Cell Development and Maintenance",
-    "url": "http://pharmacology.ucdenver.edu/ernst/"
+    "url": "http://pharmacology.ucdenver.edu/ernst/",
+    "ncbi": "http://www.ncbi.nlm.nih.gov/sites/myncbi/patricia.ernst.1/bibliography/43832532/public/?sort=date&direction=descending"
   },
   {
     "name": "Chris Evans",
@@ -232,7 +235,8 @@
   {
     "name": "James Nichols",
     "interest": "Skeletal development and variability.",
-    "url": "http://www.ucdenver.edu/academics/colleges/dentalmedicine/FacultyResources/FacultyDirectory/Pages/NicholsJamie.aspx"
+    "url": "http://www.ucdenver.edu/academics/colleges/dentalmedicine/FacultyResources/FacultyDirectory/Pages/NicholsJamie.aspx",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/51613913/?sort=date&direction=descending"
   },
   {
     "name": "Lee Niswander",
@@ -315,7 +319,8 @@
   {
     "name": "Chandra L. Tucker",
     "interest": "Protein engineering and optogenetics",
-    "url": "https://pharmacology.ucdenver.edu/tucker/"
+    "url": "https://pharmacology.ucdenver.edu/tucker/",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/sites/myncbi/chandra.tucker.1/bibliography/40330133/public/?sort=date&direction=descending"
   },
   {
     "name": "Linda VanDyk",
