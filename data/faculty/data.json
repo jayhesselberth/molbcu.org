@@ -55,7 +55,8 @@
   {
     "name": "Mair Churchill",
     "interest": "Structural biology of gene regulatory mechanisms",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/Pharmacology/faculty/Pages/churchill.aspx"
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/Pharmacology/faculty/Pages/churchill.aspx",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/sites/myncbi/mair.churchill.1/bibliography/40024211/public/?sort=date&direction=descending"
   },
   {
     "name": "Sean Colgan",
@@ -304,7 +305,8 @@
   {
     "name": "Lori Sussel",
     "interest": "Transcriptional networks that regulate pancreas development and differentiation",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/centers/BarbaraDavis/Research/Faculty/Pages/LoriSussel.aspx"
+    "url": "http://sussellab.org",
+    "ncbi": "http://www.ncbi.nlm.nih.gov/myncbi/browse/collection/40737918/?sort=date&direction=descending"
   },
   {
     "name": "Matt Taliaferro",
