@@ -39,7 +39,8 @@
   {
     "name": "David Bentley",
     "interest": "Eukaryotic mRNA biogenesis",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Faculty/PrimaryFaculty/Pages/Bentley.aspx"
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Faculty/PrimaryFaculty/Pages/Bentley.aspx",
+    "ncbi": "http://www.ncbi.nlm.nih.gov/sites/myncbi/1JIqfcncR7CkN/bibliograpahy/44067555/public/?sort=date&direction=descending"
   },
   {
     "name": "Joshua Black",
@@ -195,7 +196,8 @@
   {
     "name": "Tatiana Kutateladze",
     "interest": "Structural biology of epigenetics and deciphering the histone code",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/KutateladzeT/Pages/KutateladzeT.aspx"
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/KutateladzeT/Pages/KutateladzeT.aspx",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/sites/myncbi/12Yj7PgSOsOQg/bibliography/41351369/public/?sort=date&direction=descending"
   },
   {
     "name": "Changwei Liu",
@@ -363,6 +365,7 @@
   {
     "name": "Rui Zhao",
     "interest": "Molecular mechanism of pre-mRNA splicing",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Faculty/PrimaryFaculty/Pages/Zhao.aspx"
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Faculty/PrimaryFaculty/Pages/Zhao.aspx",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/45113958/?sort=date&direction=descending"
   }
 ]
