@@ -29,7 +29,7 @@
   },
   {
     "name": "Emily Bates",
-    "interest": "Molecular mechanisms of pediatric disorders.",
+    "interest": "Molecular mechanisms of pediatric disorders",
     "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/pediatrics/subs/DevelopmentalBiology/researchlabs/Pages/Emily-Bates.aspx"
   },
   {
@@ -229,7 +229,8 @@
   {
     "name": "Jeff Moore",
     "interest": "Molecular regulation of the microtubule network in cell division and disease",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/MooreJ/Pages/default.aspx"
+    "url": "https://www.moorelabcu.org/",
+    "ncbi": "http://www.ncbi.nlm.nih.gov/sites/myncbi/jeffrey.moore.2/bibliograpahy/45811132/public/?sort=date&direction=ascending"
   },
   {
     "name": "Neelanjan Mukherjee",
@@ -242,11 +243,6 @@
     "interest": "Skeletal development and variability.",
     "url": "http://www.ucdenver.edu/academics/colleges/dentalmedicine/FacultyResources/FacultyDirectory/Pages/NicholsJamie.aspx",
     "ncbi": "https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/51613913/?sort=date&direction=descending"
-  },
-  {
-    "name": "Lee Niswander",
-    "interest": "Genetic and Cellular Control of Vertebrate Embryonic Development",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/NiswanderL/Pages/NiswanderL.aspx"
   },
   {
     "name": "Chad Pearson",
