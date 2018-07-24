@@ -29,7 +29,7 @@
   },
   {
     "name": "Emily Bates",
-    "interest": "Molecular mechanisms of pediatric disorders.",
+    "interest": "Molecular mechanisms of pediatric disorders",
     "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/pediatrics/subs/DevelopmentalBiology/researchlabs/Pages/Emily-Bates.aspx"
   },
   {
@@ -117,7 +117,8 @@
   {
     "name": "Heide Ford",
     "interest": "SIX family homeobox genes in development, cell cycle control and tumorigenesis.",
-    "url": "http://www.heidefordlab.org/"
+    "url": "http://www.heidefordlab.org/",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/sites/myncbi/heide.ford.1/bibliography/40755622/public/?sort=date&direction=descending"
   },
   {
     "name": "Anthony Gerber",
@@ -229,7 +230,8 @@
   {
     "name": "Jeff Moore",
     "interest": "Molecular regulation of the microtubule network in cell division and disease",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/MooreJ/Pages/default.aspx"
+    "url": "https://www.moorelabcu.org/",
+    "ncbi": "http://www.ncbi.nlm.nih.gov/sites/myncbi/jeffrey.moore.2/bibliograpahy/45811132/public/?sort=date&direction=ascending"
   },
   {
     "name": "Neelanjan Mukherjee",
@@ -244,14 +246,10 @@
     "ncbi": "https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/51613913/?sort=date&direction=descending"
   },
   {
-    "name": "Lee Niswander",
-    "interest": "Genetic and Cellular Control of Vertebrate Embryonic Development",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/NiswanderL/Pages/NiswanderL.aspx"
-  },
-  {
     "name": "Chad Pearson",
     "interest": "Centriole assembly and function",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/PearsonC/Pages/PearsonC.aspx"
+    "url": "http://thepearsonlab.com",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/pubmed/?term=pearson+cg"
   },
   {
     "name": "Eric Pietras",
@@ -299,7 +297,8 @@
   {
     "name": "Holger Russ",
     "interest": "Functional human pancreatic and thymic cells to understand autoimmune diabetes.",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/centers/BarbaraDavis/Research/Faculty/Pages/HolgerRuss.aspx"
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/centers/BarbaraDavis/Research/Faculty/Pages/HolgerRuss.aspx",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/sites/myncbi/14CwxGJU5ysQp/bibliography/53364173/public/?sort=date&direction=ascending"
   },
   {
     "name": "Matthew Sikora",
@@ -349,7 +348,8 @@
   {
     "name": "Jing Wang",
     "interest": "Genomic instability and cancer development",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/ImmunologyMicrobiology/faculty/departmental/Pages/WANG.aspx"
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/ImmunologyMicrobiology/faculty/departmental/Pages/WANG.aspx",
+    "ncbi": "http://www.ncbi.nlm.nih.gov/myncbi/browse/collection/45625850/?sort=date&direction=descending"
   },
   {
     "name": "Xiao-Jing Wang",
