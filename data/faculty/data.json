@@ -24,7 +24,8 @@
   {
     "name": "David Barton",
     "interest": "Enterovirus RNA replication.",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/ImmunologyMicrobiology/faculty/departmental/Pages/BARTON.aspx"
+    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/ImmunologyMicrobiology/faculty/departmental/Pages/BARTON.aspx",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/43568673/?sort=date&direction=ascending"
   },
   {
     "name": "Emily Bates",
@@ -191,7 +192,8 @@
   {
     "name": "Jeffrey Kieft",
     "interest": "RNA structure and plasticity",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/KieftJ/Pages/KieftJ.aspx"
+    "url": "http://www.medschool.ucdenver.edu/KieftLab",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/sites/myncbi/1NeI5mh02SB5c/bibliography/46169241/public/?sort=date&direction=ascending"
   },
   {
     "name": "Tatiana Kutateladze",
@@ -302,7 +304,8 @@
   {
     "name": "Matthew Sikora",
     "interest": "Response and resistance to steroid hormones and anti-estrogen therapies in breast cancer.",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/Pathology/research/Pages/SikoraLab.aspx"
+    "ncbi": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.sikora.1/bibliography/40917407/public/?sort=date&direction=descending",
+    "url": "http://sikoralab.com/"
   },
   {
     "name": "Lori Sussel",
@@ -313,7 +316,8 @@
   {
     "name": "Matt Taliaferro",
     "interest": "Spatial regulation of genetic information",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/biochemistry/Faculty/PrimaryFaculty/Pages/Taliaferro.aspx"
+    "ncbi": "https://www.ncbi.nlm.nih.gov/sites/myncbi/jefferson.taliaferro.1/bibliography/54438855/public/?sort=date&direction=descending",
+    "url": "www.taliaferrolab.com"
   },
   {
     "name": "Beth Tamburini",
