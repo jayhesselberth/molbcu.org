@@ -170,6 +170,12 @@
     "url": "https://www.ethanhugheslab.com/"
   },
   {
+    "name": "Sujatha Jagannathan",
+    "interest": "mRNA surveillance in health and disease",
+    "url": "http://www.jagannathan-lab.org",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/46492045/?sort=date&direction=descending"
+  },
+  {
     "name": "Aaron Johnson",
     "interest": "Formation and regulation of chromatin domains and their roles in the nucleus.",
     "url": "http://www.ajlab.org",
@@ -210,7 +216,8 @@
   {
     "name": "Wendy Macklin",
     "interest": "Oligodendrocyte Differentiation and Myelination in the Central Nervous System",
-    "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/CellDevelopmentalBiology/facultyresearch/Pages/WendyMacklin.aspx"
+    "url": "http://www.macklinlab.com",
+    "ncbi": "http://www.ncbi.nlm.nih.gov/sites/myncbi/1tuoXlIEK5pAo/bibliography/43001715/public/?sort=date&direction=descending"
   },
   {
     "name": "Sandy Martin",
@@ -272,6 +279,12 @@
     "name": "Dohun Pyeon",
     "interest": "Human Papillomaviruses",
     "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/programs/Molbio/faculty/PyeonD/Pages/default.aspx"
+  },
+  {
+    "name": "Srinivas Ramachandran",
+    "interest": "Nucleosome structure and dynamics in cells",
+    "url": "http://chromatindynamics.org",
+    "ncbi": "https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/40284203/?sort=date&direction=descending"
   },
   {
     "name": "Tânia Reis",
@@ -339,6 +352,12 @@
     "name": "Andrés Vázquez-Torres",
     "interest": "Host response to intracellular pathogenic microorganisms",
     "url": "http://www.ucdenver.edu/academics/colleges/medicalschool/departments/ImmunologyMicrobiology/faculty/departmental/Pages/VAZQUEZ-TORRES.aspx"
+  },
+  {
+    "name": "Eszter Vladar",
+    "interest": "Development, regeneration, and diseases of multiciliated airway epithelia",
+    "url": "http://cilialab.com/",
+    "ncbi": "http://www.ncbi.nlm.nih.gov/sites/myncbi/143ZDNDTqJ6/bibliography/10066280/public/?sort=date&direction=ascending"
   },
   {
     "name": "Martin Voskuil",
